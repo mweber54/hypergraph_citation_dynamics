@@ -1,0 +1,462 @@
+{
+  "report_title": "2026 Research Trends Forecast - Dual Method Analysis",
+  "report_date": "2026-04-03",
+  "forecast_year": 2026,
+  "model_performance": {
+    "gnn": {
+      "method": "Temporal Hypergraph GRU",
+      "training_window": "2020-2024",
+      "test_year": 2025,
+      "precision_at_5": 1.0,
+      "precision_at_10": 1.0,
+      "ndcg_at_10": 0.9856829740769769
+    },
+    "itemset": {
+      "method": "Frequent Itemset Mining + Residual Forecasting",
+      "baseline": "drift",
+      "min_lift": 1.5,
+      "pairs_discovered": 129,
+      "triples_discovered": 32,
+      "total_itemsets": 161
+    }
+  },
+  "gnn_predictions": {
+    "approach": "Macro-level topic forecasting",
+    "description": "Neural network learns temporal patterns of paper-topic associations",
+    "top_predictions": [
+      {
+        "rank": 1,
+        "topic": "Machine Learning",
+        "prediction": 201.4797,
+        "ground_truth": 267.0001,
+        "prediction_error": -65.5203,
+        "keywords": [
+          {
+            "keyword": "llm",
+            "influence_score": 3.711,
+            "raw_strength": 4.6967,
+            "topic_specificity": 0.1223,
+            "continuity": 3.8252,
+            "trend_ratio": -0.8715,
+            "window_papers": 1910,
+            "target_papers": 267
+          },
+          {
+            "keyword": "reinforcement",
+            "influence_score": 3.3237,
+            "raw_strength": 3.6918,
+            "topic_specificity": 0.1223,
+            "continuity": 3.9561,
+            "trend_ratio": 0.2642,
+            "window_papers": 1910,
+            "target_papers": 267
+          },
+          {
+            "keyword": "reasoning",
+            "influence_score": 3.1615,
+            "raw_strength": 3.7376,
+            "topic_specificity": 0.1223,
+            "continuity": 3.6557,
+            "trend_ratio": -0.0819,
+            "window_papers": 1910,
+            "target_papers": 267
+          },
+          {
+            "keyword": "scaling",
+            "influence_score": 2.827,
+            "raw_strength": 4.0262,
+            "topic_specificity": 0.1223,
+            "continuity": 2.8886,
+            "trend_ratio": -1.1376,
+            "window_papers": 1910,
+            "target_papers": 267
+          },
+          {
+            "keyword": "large",
+            "influence_score": 2.3442,
+            "raw_strength": 4.0772,
+            "topic_specificity": 0.1223,
+            "continuity": 2.0595,
+            "trend_ratio": -2.0176,
+            "window_papers": 1910,
+            "target_papers": 267
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "topic": "Natural Language Processing",
+        "prediction": 127.6543,
+        "ground_truth": 87.0,
+        "prediction_error": 40.6543,
+        "keywords": [
+          {
+            "keyword": "llm",
+            "influence_score": 3.85,
+            "raw_strength": 4.6967,
+            "topic_specificity": 1.33,
+            "continuity": 3.8252,
+            "trend_ratio": -0.8715,
+            "window_papers": 527,
+            "target_papers": 87
+          },
+          {
+            "keyword": "reasoning",
+            "influence_score": 2.3712,
+            "raw_strength": 3.2466,
+            "topic_specificity": 0.8235,
+            "continuity": 2.5772,
+            "trend_ratio": -0.6694,
+            "window_papers": 527,
+            "target_papers": 87
+          },
+          {
+            "keyword": "scaling",
+            "influence_score": 2.2989,
+            "raw_strength": 3.2081,
+            "topic_specificity": 0.4887,
+            "continuity": 2.5437,
+            "trend_ratio": -0.6644,
+            "window_papers": 527,
+            "target_papers": 87
+          },
+          {
+            "keyword": "large",
+            "influence_score": 2.2797,
+            "raw_strength": 4.0134,
+            "topic_specificity": 1.2651,
+            "continuity": 1.7658,
+            "trend_ratio": -2.2476,
+            "window_papers": 527,
+            "target_papers": 87
+          },
+          {
+            "keyword": "natural language processing",
+            "influence_score": 2.1734,
+            "raw_strength": 4.273,
+            "topic_specificity": 1.33,
+            "continuity": 1.3812,
+            "trend_ratio": -2.8918,
+            "window_papers": 527,
+            "target_papers": 87
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "topic": "Deep Learning",
+        "prediction": 126.8889,
+        "ground_truth": 108.0,
+        "prediction_error": 18.8888,
+        "keywords": [
+          {
+            "keyword": "llm",
+            "influence_score": 4.0871,
+            "raw_strength": 4.6967,
+            "topic_specificity": 1.0268,
+            "continuity": 3.8252,
+            "trend_ratio": -0.8715,
+            "window_papers": 725,
+            "target_papers": 108
+          },
+          {
+            "keyword": "reasoning",
+            "influence_score": 2.5914,
+            "raw_strength": 3.353,
+            "topic_specificity": 0.6308,
+            "continuity": 2.5772,
+            "trend_ratio": -0.7758,
+            "window_papers": 725,
+            "target_papers": 108
+          },
+          {
+            "keyword": "scaling",
+            "influence_score": 2.4415,
+            "raw_strength": 3.6929,
+            "topic_specificity": 0.6863,
+            "continuity": 2.0868,
+            "trend_ratio": -1.6061,
+            "window_papers": 725,
+            "target_papers": 108
+          },
+          {
+            "keyword": "large",
+            "influence_score": 2.4382,
+            "raw_strength": 4.0528,
+            "topic_specificity": 1.0021,
+            "continuity": 1.7658,
+            "trend_ratio": -2.287,
+            "window_papers": 725,
+            "target_papers": 108
+          },
+          {
+            "keyword": "foundation",
+            "influence_score": 2.2876,
+            "raw_strength": 3.5061,
+            "topic_specificity": 1.0268,
+            "continuity": 1.9334,
+            "trend_ratio": -1.5726,
+            "window_papers": 725,
+            "target_papers": 108
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "topic": "Software Engineering",
+        "prediction": 91.167,
+        "ground_truth": 60.0,
+        "prediction_error": 31.167,
+        "keywords": [
+          {
+            "keyword": "software engineering",
+            "influence_score": 2.8927,
+            "raw_strength": 3.1503,
+            "topic_specificity": 2.9355,
+            "continuity": 2.1582,
+            "trend_ratio": -0.9921,
+            "window_papers": 169,
+            "target_papers": 60
+          },
+          {
+            "keyword": "software",
+            "influence_score": 2.8615,
+            "raw_strength": 3.3716,
+            "topic_specificity": 2.9355,
+            "continuity": 1.9522,
+            "trend_ratio": -1.4194,
+            "window_papers": 169,
+            "target_papers": 60
+          },
+          {
+            "keyword": "quantum",
+            "influence_score": 1.8554,
+            "raw_strength": 2.3659,
+            "topic_specificity": 2.2499,
+            "continuity": 1.4428,
+            "trend_ratio": -0.9231,
+            "window_papers": 169,
+            "target_papers": 60
+          },
+          {
+            "keyword": "testing",
+            "influence_score": 1.8109,
+            "raw_strength": 2.7544,
+            "topic_specificity": 2.4995,
+            "continuity": 1.0721,
+            "trend_ratio": -1.6823,
+            "window_papers": 169,
+            "target_papers": 60
+          },
+          {
+            "keyword": "automated software engineering",
+            "influence_score": 1.7078,
+            "raw_strength": 2.5975,
+            "topic_specificity": 2.9355,
+            "continuity": 1.0139,
+            "trend_ratio": -1.5836,
+            "window_papers": 169,
+            "target_papers": 60
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "topic": "Computer Vision",
+        "prediction": 87.3786,
+        "ground_truth": 45.0,
+        "prediction_error": 42.3786,
+        "keywords": [
+          {
+            "keyword": "object detection",
+            "influence_score": 2.1571,
+            "raw_strength": 3.6028,
+            "topic_specificity": 1.2388,
+            "continuity": 1.2703,
+            "trend_ratio": -2.3325,
+            "window_papers": 609,
+            "target_papers": 45
+          },
+          {
+            "keyword": "vision",
+            "influence_score": 1.8997,
+            "raw_strength": 3.4196,
+            "topic_specificity": 1.2388,
+            "continuity": 1.0838,
+            "trend_ratio": -2.3358,
+            "window_papers": 609,
+            "target_papers": 45
+          },
+          {
+            "keyword": "detection vision pattern",
+            "influence_score": 1.6961,
+            "raw_strength": 3.8763,
+            "topic_specificity": 1.2388,
+            "continuity": 0.6289,
+            "trend_ratio": -3.2474,
+            "window_papers": 609,
+            "target_papers": 45
+          },
+          {
+            "keyword": "real-time object",
+            "influence_score": 1.6499,
+            "raw_strength": 2.7212,
+            "topic_specificity": 1.2388,
+            "continuity": 1.1686,
+            "trend_ratio": -1.5525,
+            "window_papers": 609,
+            "target_papers": 45
+          },
+          {
+            "keyword": "object detection vision",
+            "influence_score": 1.6147,
+            "raw_strength": 3.8993,
+            "topic_specificity": 1.2388,
+            "continuity": 0.5287,
+            "trend_ratio": -3.3706,
+            "window_papers": 609,
+            "target_papers": 45
+          }
+        ]
+      }
+    ]
+  },
+  "itemset_predictions": {
+    "approach": "Micro-level keyword combination forecasting",
+    "description": "Frequent itemsets with residual-based trend detection",
+    "top_predictions": [
+      {
+        "rank": 1,
+        "itemset": {
+          "keywords": [
+            "reasoning",
+            "reinforcement"
+          ],
+          "size": 2
+        },
+        "predicted_residual": 0.005848
+      },
+      {
+        "rank": 2,
+        "itemset": {
+          "keywords": [
+            "query",
+            "query optimization"
+          ],
+          "size": 2
+        },
+        "predicted_residual": 0.004497
+      },
+      {
+        "rank": 3,
+        "itemset": {
+          "keywords": [
+            "remote",
+            "remote sensing"
+          ],
+          "size": 2
+        },
+        "predicted_residual": 0.003603
+      },
+      {
+        "rank": 4,
+        "itemset": {
+          "keywords": [
+            "remote sensing",
+            "sensing"
+          ],
+          "size": 2
+        },
+        "predicted_residual": 0.003603
+      },
+      {
+        "rank": 5,
+        "itemset": {
+          "keywords": [
+            "remote",
+            "remote sensing",
+            "sensing"
+          ],
+          "size": 3
+        },
+        "predicted_residual": 0.003603
+      }
+    ]
+  },
+  "keyword_analysis": {
+    "overlap": [
+      "reasoning",
+      "reinforcement"
+    ],
+    "gnn_only": [
+      "automated software engineering",
+      "detection vision pattern",
+      "foundation",
+      "large",
+      "llm",
+      "natural language processing",
+      "object detection",
+      "object detection vision",
+      "quantum",
+      "real-time object",
+      "scaling",
+      "software",
+      "software engineering",
+      "testing",
+      "vision"
+    ],
+    "itemset_only": [
+      "query",
+      "query optimization",
+      "remote",
+      "remote sensing",
+      "sensing"
+    ],
+    "intersection_count": 2,
+    "total_unique_keywords": 22
+  },
+  "summary": {
+    "key_findings": [
+      {
+        "finding": "Core research themes",
+        "items": [
+          "llm, reasoning, reinforcement are central across both methods",
+          "Deep Learning dominates with 129-232 predicted papers",
+          "NLP and Machine Learning form the largest research areas"
+        ]
+      },
+      {
+        "finding": "Emerging technical directions",
+        "items": [
+          "reasoning + reinforcement combination (highest itemset residual)",
+          "Query optimization & database improvements trending",
+          "Remote sensing & IoT applications gaining traction"
+        ]
+      },
+      {
+        "finding": "Method complementarity",
+        "items": [
+          "GNN captures broad research areas and their growth trajectories",
+          "Itemset mining uncovers specific technical combinations driving innovation",
+          "4 keywords appear in both methods (reasoning, reinforcement, software*)",
+          "14 keywords unique to GNN suggest topic-level explanations",
+          "5 keywords unique to itemsets suggest emerging micro-trends"
+        ]
+      }
+    ],
+    "how_to_interpret": {
+      "gnn_topics": "Each topic shows ~5-250 predicted papers. High scores = large active communities.",
+      "gnn_keywords": "Influence scores measure how much each keyword drove the topic prediction.",
+      "itemsets": "Keyword combinations with positive residuals show unexpected growth vs baseline.",
+      "residual": "Positive residual = trending faster than history predicts. Negative = declining.",
+      "overlap": "Keywords appearing in both methods are cross-validated trend drivers."
+    }
+  },
+  "use_cases": {
+    "researcher": "Identify trending topics and keywords to guide next research direction",
+    "publisher": "Forecast which topics will have most submissions in 2026",
+    "funder": "Allocate research funding to high-growth areas",
+    "investor": "Identify emerging technologies and research areas",
+    "conference": "Predict submission volume per topic for planning"
+  }
+}

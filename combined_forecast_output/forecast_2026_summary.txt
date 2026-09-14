@@ -1,0 +1,66 @@
+================================================================================
+2026 RESEARCH TRENDS FORECAST - COMBINED REPORT
+================================================================================
+
+GNN METHOD (Topic-Level)
+--------------------------------------------------------------------------------
+
+[1] Machine Learning
+    Prediction: 201.5
+    Keywords: 
+
+[2] Natural Language Processing
+    Prediction: 127.7
+    Keywords: 
+
+[3] Deep Learning
+    Prediction: 126.9
+    Keywords: 
+
+[4] Software Engineering
+    Prediction: 91.2
+    Keywords: 
+
+[5] Computer Vision
+    Prediction: 87.4
+    Keywords: 
+
+
+ITEMSET MINING METHOD (Keyword-Level)
+--------------------------------------------------------------------------------
+
+[1] reasoning + reinforcement
+    Residual: +0.005848
+
+[2] query + query optimization
+    Residual: +0.004497
+
+[3] remote + remote sensing
+    Residual: +0.003603
+
+[4] remote sensing + sensing
+    Residual: +0.003603
+
+[5] remote + remote sensing + sensing
+    Residual: +0.003603
+
+
+KEY FINDINGS
+--------------------------------------------------------------------------------
+
+Core research themes:
+  - llm, reasoning, reinforcement are central across both methods
+  - Deep Learning dominates with 129-232 predicted papers
+  - NLP and Machine Learning form the largest research areas
+
+Emerging technical directions:
+  - reasoning + reinforcement combination (highest itemset residual)
+  - Query optimization & database improvements trending
+  - Remote sensing & IoT applications gaining traction
+
+Method complementarity:
+  - GNN captures broad research areas and their growth trajectories
+  - Itemset mining uncovers specific technical combinations driving innovation
+  - 4 keywords appear in both methods (reasoning, reinforcement, software*)
+  - 14 keywords unique to GNN suggest topic-level explanations
+  - 5 keywords unique to itemsets suggest emerging micro-trends

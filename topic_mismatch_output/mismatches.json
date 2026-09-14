@@ -1,0 +1,1334 @@
+[
+  {
+    "paper_id": "60b05f32c32519a809f21642ef1eb3eaf3848008",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "6ed9417eaa7ee16f0563599829a061421a3e0563",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "2258e01865367018ed6f4262c880df85b94959f8",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "paper_id": "1c61f9ef06fe74505775a833ff849185757199e7",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "a97c7876ebf9ae6c468db92c3c6dc1c0be832192",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "27725a2d2a8cee9bf9fffc6c2167017103aba0fa",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "3f1c6749edfaf4f89bac38b2d15a0493bd9aa253",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "real-time object"
+    ]
+  },
+  {
+    "paper_id": "7ffdbc358b63378f07311e883dddacc9faeeaf4b",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "3a29aa4eff48624752c07059a44d3288a678c8ab",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "892e53fe5cd39f037cb2a961499f42f3002595dd",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "a486e2839291111bb44fa1f07731ada123539f75",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "a6e7513371a49cd7b8b30bb444e8fc448c5326cb",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "paper_id": "ac0d88ca5f75a4a80da90365c28fa26f1a26d4c4",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "paper_id": "e2dba792360873aef125572812f3673b1a85d850",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "16da4d6503e17f8597602437358461c252244bf7",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "1a0912bb76777469295bb2c059faee907e7f3258",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "4d972b4b6d2eae0bc810225dc3fd3b89e861dd56",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "5ded2b8c64491b4a67f6d39ce473d4b9347a672e",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "668db48c6a79826456341680ee1175dfc4cced71",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "894252730324f233b474bae1d6fe0b77d988ae83",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "paper_id": "d9b3fa2627813fe92323a7a8d25cd12e4197ead6",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "f52b48a988489ed4d1c53f98e77aa34669547a94",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "01857c101bf51334f5d28f1288618e2cedf97124",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "97bfa89addc6e5d76361e4c1e296949cad887b86",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "990a7b4eceedb6e053e6386269481bdfc42a1094",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "9f69382b0112b5467b8118eafaade5d30720c3b2",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "paper_id": "e1799aaf23c12af6932dc0ef3dfb1638f01413d1",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "0de0a44b859a3719d11834479112314b4caba669",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "135112c7ba1762d65f39b1a61777f26ae4dfd8ad",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "157a7ae44613a1fcf34e2be8c1e19a4f6e3c50e3",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "17dbd7b72029181327732e4d11b52a08ed4630d0",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "1e83c20def5c84efa6d4a0d80aa3159f55cb9c3f",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "248824ec5d9b4ddf0c36cdc51b6b57af6e881328",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "340b59e6ee93d30c055b5e89a7cfbc88874c9958",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "43b9bf090d1d7c8308f87bc4775680f5c8813ce6",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "paper_id": "56cafbac34f2bb3f6a9828cd228ff281b810d6bb",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "63a243afcb133569a962c41e9db956c076c5c4f3",
+    "current_topics": [
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "bounding box"
+    ]
+  },
+  {
+    "paper_id": "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "74293469797646a026064183c43d8e355498929b",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "809cc93921e4698bde891475254ad6dfba33d03b",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "81f5810fbbab9b7203b9556f4ce3c741875407bc",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "97906df07855b029b7aae7c2a1c6c5e8df1d531c",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "a0e49f65b6847437f262c59d0d399255101d0b75",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "a75649771901a4881b44c0ceafa469fcc6e6f968",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "b61c6405f4de381758e8b52a20313554d68a9d85",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "dab8424eec426ed3996e469f657371dd53e20127",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "eef4df3a5232c7ce70123aaebb326ff9169a3c8c",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "fdde9a63877db44c1b6a7f5cff5d47f01465e793",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "1028dfba19e38aa0f41eb3ba2b4885e835d63642",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "2573af4e13d9a5dddb257d22cd38a600528d9a8b",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "2e735b7188a1347b58928d16a81a794e8a644f88",
+    "current_topics": [
+      "Theory and Algorithms",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "tracking"
+    ]
+  },
+  {
+    "paper_id": "33ec7eb2168e37e3007d1059aa96b9a63254b4da",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "3701afb6e94f8ee9fccb2c95e0984e57db38f3d8",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "495da6f19baa09c6db3697d839e10432cdc25934",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "579476d19566efc842929ea6bdd18ab760c8cfa2",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "5b98bffe4b1544aaa1a3041706c5a1c81fbf6ad0",
+    "current_topics": [
+      "Theory and Algorithms"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "5e0cca43a1c4fc0f1fc03764fc2dab59efeba7a5",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "6b7c896caed36f08b04e72c9eedcc9e1a24e4652",
+    "current_topics": [
+      "Data Mining",
+      "Theory and Algorithms",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "wireless sensor"
+    ]
+  },
+  {
+    "paper_id": "8af68e52cce0080fe9e9bb7ae93379359a0ccc36",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "9ab7a4f34bbf19eaf0341799c97d1e25928bde58",
+    "current_topics": [
+      "Machine Learning",
+      "Security and Privacy",
+      "Theory and Algorithms",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "9e841696d41fffdb99a09bd32bb14a15973ee4ec",
+    "current_topics": [
+      "Computer Vision",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "a8bffc01f0f4502cbff463125733f8bf26ead5cf",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "bd20069f5cac3e63083ecf6479abc1799db33ce0",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "c6a84615bc36486cd0170f8a3e1b7e5ec8f5344e",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "e401f6b5118279afb7304ab07d18581d286155de",
+    "current_topics": [
+      "Computer Vision",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "19bfeac2903e2b2c976e4d132ebd382f1ea48301",
+    "current_topics": [
+      "Theory and Algorithms",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "3581aeef3869326d6b5b685735529bb107d8fc6c",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "3f2e500fb228767c9f73ba570df357a46616d1d0",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "42b2a4868756e24afb7f89d376547fe67f64aa31",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "yolo"
+    ]
+  },
+  {
+    "paper_id": "53d8b356551a2361020a948f64454a6d599af69f",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "572b6913ec90fdc2188339a06db91c74829cc2f8",
+    "current_topics": [
+      "Distributed Systems and Cloud"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "5a2e45ce35fb26ab70a61b424a49f8e5b4532a8e",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "76c500a32917e16d0b9fe4cc694d1b67f3c8d9c7",
+    "current_topics": [
+      "Security and Privacy"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "79195e0f1e8560c6e14982a07e1247bbe10d6712",
+    "current_topics": [
+      "Distributed Systems and Cloud"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "7b37c0a4976c4d2a5a440d494fbb0f3daede2a00",
+    "current_topics": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "Machine Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "90cdaa333c99ae56f1f4ebaa18d6e18d262359ce",
+    "current_topics": [
+      "Security and Privacy",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "9ea6755fee4e4d90333ed2f90d783762c6bb3d72",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "a9fe5bd8da2d9603cf2cf6c6ea8b0f83c6d3a4f9",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning",
+      "Large Language Models"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "af0bb8ad937096c7f81e3a7dd7ed01ab735e2639",
+    "current_topics": [
+      "Security and Privacy",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "wireless sensor"
+    ]
+  },
+  {
+    "paper_id": "b53c386b7c65af80905dc05a9b27e98e03324739",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "c01b385205e488a731c8c8c11c0c494d426beb03",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "yolo"
+    ]
+  },
+  {
+    "paper_id": "cbdb45fc16b0885905b91d84281c310e6cb49e9c",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "e78f98560cfbf6664722c0e1581bf46872fa2c35",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "35d8c3cc407940d1090c19271776c1af4428efa6",
+    "current_topics": [
+      "Security and Privacy"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "35e7384f1caf8f0236efa71664c70fd3c1421cf7",
+    "current_topics": [
+      "Theory and Algorithms",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "382a746c1f125dac6e8cf7508ae4b50ac54b603e",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "4105bfadd842a4ef32f005a825d24fa4d0495996",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "45dfaebd44bbd8c67c046bc8b8cf013c38a897ae",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "5f85aec081f4ee224441899b6c1ceec1535bd58f",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "yolo"
+    ]
+  },
+  {
+    "paper_id": "60507e51345b320464469549a40ee8ffe8f6e1c2",
+    "current_topics": [
+      "Machine Learning",
+      "Graph Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "756fb1ff40763d283517f753e32f0dc394f1b500",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "815dd5611477100d88bd4d58c04772b64e2461b7",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "8cd4d9d204acbda17572cb364522ee71ce8a5f13",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "907e12e46eba463883442b02dd91a302cd55acd1",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "98ba4b6d517cebd68cf9583c576c0c383902a39f",
+    "current_topics": [
+      "Distributed Systems and Cloud",
+      "Security and Privacy"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "9e49d9a3b7b66818e6c2f66395fb83c5df47be44",
+    "current_topics": [
+      "Distributed Systems and Cloud"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "a91e294181ba70f4b00ad6b1d26dff2089536209",
+    "current_topics": [
+      "Reinforcement Learning",
+      "Machine Learning",
+      "Graph Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "bf22ef16a6a912763780aea454198edc3e2bb3c9",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "ca7c60d9d57e3ef4758077ec3e1b2c6056be1817",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "f88008cc769fb7c6ad48f3a6905248b5f3aa6048",
+    "current_topics": [
+      "Security and Privacy",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "fcff2246e2b8c143a3262e60dcba8620cc32b61a",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "fd7e88a2313e176315d99fc299277e752d7703b7",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "ff9d9643a50d2773a9d2a45a8e6b8801ac51a9a0",
+    "current_topics": [
+      "Security and Privacy",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "06396c7cd5d223a1776abf8811359ec7bc05d420",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "4ae5b43d84dff89be84fa35a53f30f70de15de42",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "5d642ff6323bb4bae1c2d20e8454f4deb667a2e6",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "791a67ca630db94c8eaa9da2a8449ebbfa3673af",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "a44df316ebb359fee5b2654be6999884cacfe450",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "wireless sensor"
+    ]
+  },
+  {
+    "paper_id": "24fa9b529cb34a801304f4de5f1bc89e97d70c05",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "32f1aea7b28c2ff114625890d5055bf5d79d4b75",
+    "current_topics": [
+      "Security and Privacy",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Vision",
+    "matching_keywords": [
+      "cnn"
+    ]
+  },
+  {
+    "paper_id": "346fdbda3ecf4775819fced0cfed78357bee8128",
+    "current_topics": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Data Mining",
+    "matching_keywords": [
+      "association"
+    ]
+  },
+  {
+    "paper_id": "3ca407c8bf5094d00adfde877936791453347a15",
+    "current_topics": [
+      "Software Engineering"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "4c72ad7696024b292c0fac248a7e94cbd8d83eb9",
+    "current_topics": [
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "5173742c050adda18db6cd906c6521a71941682c",
+    "current_topics": [
+      "Data Mining",
+      "Theory and Algorithms",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "5711043ed66daf9d76569085a1737b46d7afe239",
+    "current_topics": [
+      "Miscellaneous / Unclear CS"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "73a9ee02e6166566e55dbbdf5a0a30023b69ea08",
+    "current_topics": [
+      "Distributed Systems and Cloud",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "c70adc1e458b8fcfeff8c0f42f576f9b325519f1",
+    "current_topics": [
+      "Distributed Systems and Cloud",
+      "Recommender Systems",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "29d0edb5c2532ed56c7274b7154a541288f547de",
+    "current_topics": [
+      "Computer Vision",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "edge computing"
+    ]
+  },
+  {
+    "paper_id": "5157a3c0dfbfe495229d33eb26ef48c062dfcf39",
+    "current_topics": [
+      "Security and Privacy"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "58ffb8dd7a1e1d1cae0e809036c453ad410d9262",
+    "current_topics": [
+      "Security and Privacy",
+      "Machine Learning",
+      "Deep Learning",
+      "Ensemble Methods"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  },
+  {
+    "paper_id": "6f653f0e36da27243a048b1a7c932193e2f3d703",
+    "current_topics": [
+      "Security and Privacy",
+      "Machine Learning"
+    ],
+    "suggested_addition": "Computer Networks",
+    "matching_keywords": [
+      "iot"
+    ]
+  }
+]

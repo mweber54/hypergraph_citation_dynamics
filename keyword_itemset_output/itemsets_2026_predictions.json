@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "method": "frequent itemset mining with trend curve fitting",
+    "forecast_year": 2026,
+    "baseline": "drift",
+    "min_lift": 1.5,
+    "selection_method": "exponential/logistic curve parameters",
+    "num_pairs": 127,
+    "num_triples": 29,
+    "total_itemsets": 156
+  },
+  "top_trending_itemsets": [
+    {
+      "rank": 1,
+      "itemset": {
+        "keywords": [
+          "reasoning",
+          "reinforcement"
+        ],
+        "size": 2
+      },
+      "trend_score": 0.000659,
+      "exp_growth_rate_k": 0.0,
+      "logistic_growth_rate_k": 0.0,
+      "linear_slope": 0.001318,
+      "best_fit_model": "none"
+    },
+    {
+      "rank": 2,
+      "itemset": {
+        "keywords": [
+          "remote",
+          "sensing"
+        ],
+        "size": 2
+      },
+      "trend_score": 0.000471,
+      "exp_growth_rate_k": 0.0,
+      "logistic_growth_rate_k": 0.0,
+      "linear_slope": 0.000941,
+      "best_fit_model": "none"
+    },
+    {
+      "rank": 3,
+      "itemset": {
+        "keywords": [
+          "remote sensing",
+          "sensing"
+        ],
+        "size": 2
+      },
+      "trend_score": 0.000471,
+      "exp_growth_rate_k": 0.0,
+      "logistic_growth_rate_k": 0.0,
+      "linear_slope": 0.000941,
+      "best_fit_model": "none"
+    },
+    {
+      "rank": 4,
+      "itemset": {
+        "keywords": [
+          "remote",
+          "remote sensing",
+          "sensing"
+        ],
+        "size": 3
+      },
+      "trend_score": 0.000471,
+      "exp_growth_rate_k": 0.0,
+      "logistic_growth_rate_k": 0.0,
+      "linear_slope": 0.000941,
+      "best_fit_model": "none"
+    },
+    {
+      "rank": 5,
+      "itemset": {
+        "keywords": [
+          "remote",
+          "remote sensing"
+        ],
+        "size": 2
+      },
+      "trend_score": 0.000471,
+      "exp_growth_rate_k": 0.0,
+      "logistic_growth_rate_k": 0.0,
+      "linear_slope": 0.000941,
+      "best_fit_model": "none"
+    }
+  ]
+}

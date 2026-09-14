@@ -1,0 +1,18 @@
+{
+  "input": "topic_hypergraph_output/papers_with_topics.csv",
+  "window_start": 2010,
+  "window_end": 2022,
+  "target_year": 2023,
+  "top_keywords_per_paper": 5,
+  "top_keywords_per_topic": 15,
+  "min_df": 2,
+  "max_features": 20000,
+  "topic_column": "assigned_topics",
+  "text_columns_used": [
+    "title",
+    "fields_of_study",
+    "venue"
+  ],
+  "num_papers": 3974,
+  "num_keyword_features": 6470
+}

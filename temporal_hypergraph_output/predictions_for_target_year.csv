@@ -1,0 +1,26 @@
+topic,prediction,ground_truth
+Machine Learning,248.85272,267.00006
+Deep Learning,143.62697,108.00002
+Natural Language Processing,140.87671,87.00001
+Computer Vision,79.518684,45.0
+Software Engineering,64.228905,59.99999
+Large Language Models,54.02267,47.999996
+Theory and Algorithms,32.79324,23.0
+Security and Privacy,32.169483,34.000004
+Optimization,32.154675,41.000004
+Databases and Data Management,29.11708,34.000004
+Distributed Systems and Cloud,25.928474,24.000002
+Reinforcement Learning,19.883518,53.000004
+Computer Networks,13.074899,18.0
+Graph Machine Learning,11.129804,4.0
+Information Retrieval,7.846971,8.0
+Generative Models,6.708384,3.0
+Robotics and Control,6.5570235,4.0
+Bioinformatics and Computational Biology,3.7719994,3.0
+Data Mining,3.3463178,5.0
+Statistical Learning,3.344383,1.0
+Explainable / Fair / Causal AI,2.6441798,5.0
+Human-Computer Interaction,1.4425128,2.0
+Recommender Systems,0.9888362,4.0
+Programming Languages,0.50840676,0.0
+Kernel Methods / SVM,0.09769363,1.0

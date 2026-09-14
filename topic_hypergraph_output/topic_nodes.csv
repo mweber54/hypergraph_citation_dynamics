@@ -1,0 +1,26 @@
+topic_id,topic_name,paper_count
+machine_learning,Machine Learning,3347
+deep_learning,Deep Learning,1161
+computer_vision,Computer Vision,1156
+natural_language_processing,Natural Language Processing,964
+large_language_models,Large Language Models,271
+theory_and_algorithms,Theory and Algorithms,259
+software_engineering,Software Engineering,253
+optimization,Optimization,212
+security_and_privacy,Security and Privacy,205
+distributed_systems_and_cloud,Distributed Systems and Cloud,179
+databases_and_data_management,Databases and Data Management,170
+reinforcement_learning,Reinforcement Learning,164
+computer_networks,Computer Networks,118
+robotics_and_control,Robotics and Control,95
+bioinformatics_and_computational_biology,Bioinformatics and Computational Biology,60
+information_retrieval,Information Retrieval,49
+graph_machine_learning,Graph Machine Learning,43
+data_mining,Data Mining,38
+generative_models,Generative Models,32
+explainable_fair_causal_ai,Explainable / Fair / Causal AI,28
+statistical_learning,Statistical Learning,24
+kernel_methods_svm,Kernel Methods / SVM,11
+recommender_systems,Recommender Systems,10
+programming_languages,Programming Languages,5
+human_computer_interaction,Human-Computer Interaction,4

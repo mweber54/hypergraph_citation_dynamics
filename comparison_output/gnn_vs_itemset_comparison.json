@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "approach_1": "GNN (Graph Neural Network on Temporal Hypergraph)",
+    "approach_2": "Itemset Mining (Frequent Itemsets + Residual Forecasting)",
+    "gnn_window_years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "gnn_target_year": 2025,
+    "gnn_model_performance": {
+      "precision_at_5": 1.0,
+      "precision_at_10": 1.0,
+      "ndcg_at_10": 0.9856829740769769
+    },
+    "itemset_config": {
+      "method": "frequent itemset mining",
+      "forecast_year": 2026,
+      "baseline": "drift",
+      "min_lift": 1.5,
+      "num_pairs": 129,
+      "num_triples": 32,
+      "total_itemsets": 161
+    }
+  },
+  "gnn_approach": [
+    {
+      "rank": 1,
+      "topic": "Machine Learning",
+      "prediction": 201.4797,
+      "ground_truth": 267.0001,
+      "prediction_error": -65.5203,
+      "top_keywords": [
+        "llm",
+        "reinforcement",
+        "reasoning",
+        "scaling",
+        "large"
+      ],
+      "influence_scores": [
+        3.711,
+        3.3237,
+        3.1615,
+        2.827,
+        2.3442
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "Natural Language Processing",
+      "prediction": 127.6543,
+      "ground_truth": 87.0,
+      "prediction_error": 40.6543,
+      "top_keywords": [
+        "llm",
+        "reasoning",
+        "scaling",
+        "large",
+        "natural language processing"
+      ],
+      "influence_scores": [
+        3.85,
+        2.3712,
+        2.2989,
+        2.2797,
+        2.1734
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "Deep Learning",
+      "prediction": 126.8889,
+      "ground_truth": 108.0,
+      "prediction_error": 18.8888,
+      "top_keywords": [
+        "llm",
+        "reasoning",
+        "scaling",
+        "large",
+        "foundation"
+      ],
+      "influence_scores": [
+        4.0871,
+        2.5914,
+        2.4415,
+        2.4382,
+        2.2876
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "Software Engineering",
+      "prediction": 91.167,
+      "ground_truth": 60.0,
+      "prediction_error": 31.167,
+      "top_keywords": [
+        "software engineering",
+        "software",
+        "quantum",
+        "testing",
+        "automated software engineering"
+      ],
+      "influence_scores": [
+        2.8927,
+        2.8615,
+        1.8554,
+        1.8109,
+        1.7078
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "Computer Vision",
+      "prediction": 87.3786,
+      "ground_truth": 45.0,
+      "prediction_error": 42.3786,
+      "top_keywords": [
+        "object detection",
+        "vision",
+        "detection vision pattern",
+        "real-time object",
+        "object detection vision"
+      ],
+      "influence_scores": [
+        2.1571,
+        1.8997,
+        1.6961,
+        1.6499,
+        1.6147
+      ]
+    }
+  ],
+  "itemset_approach": [
+    {
+      "rank": 1,
+      "itemset": "reasoning + reinforcement",
+      "constituent_keywords": [
+        "reasoning",
+        "reinforcement"
+      ],
+      "predicted_residual": 0.005848
+    },
+    {
+      "rank": 2,
+      "itemset": "query + query optimization",
+      "constituent_keywords": [
+        "query",
+        "query optimization"
+      ],
+      "predicted_residual": 0.004497
+    },
+    {
+      "rank": 3,
+      "itemset": "remote + remote sensing",
+      "constituent_keywords": [
+        "remote",
+        "remote sensing"
+      ],
+      "predicted_residual": 0.003603
+    },
+    {
+      "rank": 4,
+      "itemset": "remote sensing + sensing",
+      "constituent_keywords": [
+        "remote sensing",
+        "sensing"
+      ],
+      "predicted_residual": 0.003603
+    },
+    {
+      "rank": 5,
+      "itemset": "remote + remote sensing + sensing",
+      "constituent_keywords": [
+        "remote",
+        "remote sensing",
+        "sensing"
+      ],
+      "predicted_residual": 0.003603
+    }
+  ],
+  "synthesis": {
+    "common_keywords": {
+      "overlap": [
+        "reasoning",
+        "reinforcement"
+      ],
+      "gnn_only": [
+        "automated software engineering",
+        "detection vision pattern",
+        "foundation",
+        "large",
+        "llm",
+        "natural language processing",
+        "object detection",
+        "object detection vision",
+        "quantum",
+        "real-time object",
+        "scaling",
+        "software",
+        "software engineering",
+        "testing",
+        "vision"
+      ],
+      "itemset_only": [
+        "query",
+        "query optimization",
+        "remote",
+        "remote sensing",
+        "sensing"
+      ],
+      "intersection_count": 2,
+      "total_unique_keywords": 22
+    },
+    "comparison_summary": ""
+  }
+}

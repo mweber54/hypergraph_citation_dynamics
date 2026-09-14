@@ -1,0 +1,17 @@
+Input years: [2020, 2021, 2022, 2023, 2024]
+Predicted year: 2025
+Precision@5:  1.0000
+Precision@10: 1.0000
+NDCG@10:      0.9857
+
+Top predicted topics:
+ - Machine Learning: pred=201.4798, truth=267.0001
+ - Natural Language Processing: pred=127.6543, truth=87.0000
+ - Deep Learning: pred=126.8888, truth=108.0000
+ - Software Engineering: pred=91.1670, truth=60.0000
+ - Computer Vision: pred=87.3786, truth=45.0000
+ - Large Language Models: pred=65.4468, truth=48.0000
+ - Optimization: pred=34.5754, truth=41.0000
+ - Databases and Data Management: pred=33.7869, truth=34.0000
+ - Security and Privacy: pred=33.1038, truth=34.0000
+ - Theory and Algorithms: pred=31.8972, truth=23.0000

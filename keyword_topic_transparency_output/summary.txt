@@ -1,0 +1,424 @@
+Input years: [2010, 2011 ... 2022]
+Target year: 2023
+
+Top explanatory keywords per topic:
+
+Bioinformatics and Computational Biology | window papers=46 | target papers=4
+ - language biomedical: influence=1.188, strength=1.448, specificity=4.231, continuity=1.368, trend=-0.080
+ - language biomedical natural: influence=1.188, strength=1.448, specificity=4.231, continuity=1.368, trend=-0.080
+ - biomedical: influence=1.126, strength=3.393, specificity=4.231, continuity=0.000, trend=-3.393
+ - biomedical natural: influence=0.899, strength=2.983, specificity=4.231, continuity=0.000, trend=-2.983
+ - biomedical natural language: influence=0.899, strength=2.983, specificity=4.231, continuity=0.000, trend=-2.983
+ - medicine bmc bioinformatics: influence=0.882, strength=2.953, specificity=4.231, continuity=0.000, trend=-2.953
+ - bmc bioinformatics: influence=0.856, strength=2.905, specificity=4.231, continuity=0.000, trend=-2.905
+ - medicine biomedical informatics: influence=0.775, strength=2.759, specificity=4.231, continuity=0.000, trend=-2.759
+ - biomedical informatics: influence=0.775, strength=2.759, specificity=4.231, continuity=0.000, trend=-2.759
+ - bioinformatics: influence=0.677, strength=2.581, specificity=4.231, continuity=0.000, trend=-2.581
+ - recommendations: influence=0.674, strength=1.350, specificity=3.279, continuity=0.962, trend=-0.388
+ - medicine biomedical: influence=0.622, strength=2.482, specificity=4.231, continuity=0.000, trend=-2.482
+ - medicine bioinform: influence=0.581, strength=2.475, specificity=3.939, continuity=0.000, trend=-2.475
+ - clinical notes: influence=0.555, strength=2.361, specificity=4.231, continuity=0.000, trend=-2.361
+ - bionlp: influence=0.533, strength=2.399, specificity=3.889, continuity=0.000, trend=-2.399
+
+Computer Networks | window papers=74 | target papers=11
+ - internet: influence=1.559, strength=3.164, specificity=3.704, continuity=0.938, trend=-2.226
+ - latency: influence=1.022, strength=2.450, specificity=3.704, continuity=0.654, trend=-1.796
+ - iot network: influence=0.982, strength=1.763, specificity=2.655, continuity=1.177, trend=-0.585
+ - network neural: influence=0.896, strength=3.214, specificity=3.189, continuity=0.000, trend=-3.214
+ - network neural processing: influence=0.892, strength=3.214, specificity=3.127, continuity=0.000, trend=-3.214
+ - network: influence=0.874, strength=3.224, specificity=2.810, continuity=0.000, trend=-3.224
+ - distributed computing continuum: influence=0.849, strength=1.669, specificity=2.909, continuity=1.023, trend=-0.646
+ - communications: influence=0.825, strength=3.033, specificity=3.400, continuity=0.000, trend=-3.033
+ - computing continuum: influence=0.820, strength=1.640, specificity=2.909, continuity=1.000, trend=-0.640
+ - continuum: influence=0.790, strength=1.628, specificity=2.661, continuity=0.991, trend=-0.637
+ - neural processing: influence=0.698, strength=3.028, specificity=1.667, continuity=0.000, trend=-3.028
+ - bot-iot: influence=0.677, strength=2.674, specificity=3.704, continuity=0.000, trend=-2.674
+ - network mathematics representations: influence=0.599, strength=2.663, specificity=2.703, continuity=0.000, trend=-2.663
+ - distributed computing: influence=0.592, strength=1.428, specificity=3.150, continuity=0.792, trend=-0.636
+ - mathematics representations: influence=0.587, strength=2.807, specificity=1.590, continuity=0.000, trend=-2.807
+
+Computer Vision | window papers=946 | target papers=78
+ - vision: influence=2.386, strength=4.300, specificity=0.861, continuity=2.435, trend=-1.865
+ - open-vocabulary object detection: influence=1.773, strength=3.516, specificity=1.045, continuity=1.906, trend=-1.611
+ - detection vision: influence=1.721, strength=4.478, specificity=1.045, continuity=1.173, trend=-3.306
+ - open-vocabulary object: influence=1.720, strength=3.387, specificity=1.045, continuity=1.906, trend=-1.481
+ - object detection vision: influence=1.671, strength=4.718, specificity=1.045, continuity=0.927, trend=-3.791
+ - segment: influence=1.644, strength=2.487, specificity=1.045, continuity=2.387, trend=-0.100
+ - object detection: influence=1.608, strength=4.273, specificity=1.045, continuity=1.124, trend=-3.150
+ - vision transformers: influence=1.603, strength=3.461, specificity=1.045, continuity=1.663, trend=-1.798
+ - vision attention mechanism: influence=1.584, strength=3.233, specificity=1.045, continuity=1.786, trend=-1.447
+ - object: influence=1.501, strength=4.058, specificity=1.045, continuity=1.092, trend=-2.965
+ - detection vision pattern: influence=1.498, strength=4.337, specificity=1.045, continuity=0.899, trend=-3.438
+ - real-time object detection: influence=1.473, strength=3.291, specificity=1.045, continuity=1.563, trend=-1.727
+ - network object: influence=1.445, strength=3.908, specificity=1.045, continuity=1.100, trend=-2.808
+ - network object detection: influence=1.432, strength=3.857, specificity=1.045, continuity=1.112, trend=-2.745
+ - distillation: influence=1.423, strength=3.435, specificity=0.604, continuity=1.488, trend=-1.947
+
+Data Mining | window papers=26 | target papers=3
+ - knowledge discovery: influence=1.590, strength=3.081, specificity=4.870, continuity=0.857, trend=-2.224
+ - discovery: influence=1.225, strength=2.407, specificity=4.603, continuity=0.826, trend=-1.580
+ - discovery mining: influence=0.868, strength=3.060, specificity=4.870, continuity=0.000, trend=-3.060
+ - knowledge discovery mining: influence=0.868, strength=3.060, specificity=4.870, continuity=0.000, trend=-3.060
+ - anomaly detection: influence=0.647, strength=2.595, specificity=4.870, continuity=0.000, trend=-2.595
+ - mining: influence=0.637, strength=2.649, specificity=4.394, continuity=0.000, trend=-2.649
+ - anomaly: influence=0.622, strength=2.541, specificity=4.870, continuity=0.000, trend=-2.541
+ - network anomaly detection: influence=0.618, strength=2.534, specificity=4.870, continuity=0.000, trend=-2.534
+ - anomaly detection deep: influence=0.604, strength=2.504, specificity=4.870, continuity=0.000, trend=-2.504
+ - anomaly detection cloud: influence=0.592, strength=1.391, specificity=4.870, continuity=0.620, trend=-0.770
+ - network anomaly: influence=0.580, strength=2.493, specificity=4.619, continuity=0.000, trend=-2.493
+ - network traffic anomaly: influence=0.446, strength=2.171, specificity=4.870, continuity=0.000, trend=-2.171
+ - traffic anomaly detection: influence=0.446, strength=2.171, specificity=4.870, continuity=0.000, trend=-2.171
+ - traffic anomaly: influence=0.446, strength=2.171, specificity=4.870, continuity=0.000, trend=-2.171
+ - detection deep neural: influence=0.342, strength=2.111, specificity=3.865, continuity=0.000, trend=-2.111
+
+Databases and Data Management | window papers=48 | target papers=48
+ - query optimization: influence=2.007, strength=3.362, specificity=3.811, continuity=1.958, trend=-1.404
+ - vldb endowment: influence=1.759, strength=3.543, specificity=4.385, continuity=1.294, trend=-2.249
+ - endowment: influence=1.441, strength=3.225, specificity=4.385, continuity=0.921, trend=-2.304
+ - cardinality estimation: influence=1.292, strength=2.004, specificity=3.809, continuity=1.595, trend=-0.410
+ - learned query optimization: influence=1.264, strength=2.437, specificity=4.385, continuity=1.167, trend=-1.270
+ - vldb: influence=1.262, strength=2.716, specificity=4.385, continuity=0.956, trend=-1.760
+ - cardinality: influence=1.254, strength=1.787, specificity=3.706, continuity=1.694, trend=-0.092
+ - database: influence=1.253, strength=2.042, specificity=4.385, continuity=1.440, trend=-0.602
+ - database tuning: influence=1.068, strength=2.012, specificity=4.385, continuity=1.108, trend=-0.904
+ - making learned: influence=1.009, strength=2.092, specificity=4.385, continuity=0.934, trend=-1.158
+ - making learned query optimization: influence=1.009, strength=2.092, specificity=4.385, continuity=0.934, trend=-1.158
+ - databases: influence=0.999, strength=1.543, specificity=4.385, continuity=1.323, trend=-0.219
+ - query optimization optimizer: influence=0.979, strength=1.404, specificity=3.414, continuity=1.476, trend=0.073
+ - query optimization optimizer vldb: influence=0.929, strength=1.653, specificity=4.385, continuity=1.108, trend=-0.545
+ - optimizer vldb endowment: influence=0.929, strength=1.653, specificity=4.385, continuity=1.108, trend=-0.545
+
+Deep Learning | window papers=792 | target papers=133
+ - llm: influence=2.521, strength=3.599, specificity=1.184, continuity=3.474, trend=-0.125
+ - attention mechanism: influence=2.375, strength=5.817, specificity=0.947, continuity=1.493, trend=-4.325
+ - diffusion: influence=2.211, strength=3.776, specificity=0.750, continuity=2.806, trend=-0.970
+ - large: influence=2.210, strength=3.615, specificity=0.690, continuity=2.943, trend=-0.672
+ - language: influence=2.052, strength=4.166, specificity=0.794, continuity=2.176, trend=-1.991
+ - representations: influence=2.020, strength=4.567, specificity=0.324, continuity=1.890, trend=-2.677
+ - neural processing: influence=1.950, strength=3.652, specificity=-0.207, continuity=2.573, trend=-1.078
+ - pretraining: influence=1.835, strength=4.145, specificity=1.184, continuity=1.688, trend=-2.457
+ - deep neural network: influence=1.822, strength=3.971, specificity=1.184, continuity=1.799, trend=-2.172
+ - foundation: influence=1.698, strength=3.021, specificity=1.184, continuity=2.299, trend=-0.722
+ - transformers: influence=1.668, strength=4.421, specificity=1.184, continuity=1.141, trend=-3.280
+ - vision transformers: influence=1.551, strength=3.461, specificity=1.184, continuity=1.663, trend=-1.798
+ - deep neural: influence=1.542, strength=3.459, specificity=1.184, continuity=1.645, trend=-1.815
+ - vision attention mechanism: influence=1.523, strength=3.233, specificity=1.184, continuity=1.786, trend=-1.447
+ - evaluating: influence=1.519, strength=3.440, specificity=0.814, continuity=1.688, trend=-1.753
+
+Distributed Systems and Cloud | window papers=98 | target papers=33
+ - distributed: influence=1.723, strength=2.227, specificity=3.288, continuity=1.797, trend=-0.430
+ - cloud computing: influence=1.626, strength=2.774, specificity=3.954, continuity=1.146, trend=-1.629
+ - scheduling cloud computing: influence=1.230, strength=2.133, specificity=3.954, continuity=1.028, trend=-1.105
+ - services: influence=1.175, strength=2.244, specificity=3.574, continuity=0.887, trend=-1.357
+ - cloud: influence=1.087, strength=1.543, specificity=3.954, continuity=1.269, trend=-0.274
+ - scheduling cloud: influence=1.046, strength=1.765, specificity=3.954, continuity=1.028, trend=-0.737
+ - computing environments: influence=0.993, strength=2.274, specificity=3.954, continuity=0.540, trend=-1.734
+ - heterogeneous: influence=0.990, strength=1.853, specificity=2.729, continuity=0.983, trend=-0.870
+ - computing platform: influence=0.984, strength=1.800, specificity=3.954, continuity=0.902, trend=-0.898
+ - cloud computing platform: influence=0.984, strength=1.800, specificity=3.954, continuity=0.902, trend=-0.898
+ - parallel distributed: influence=0.983, strength=1.271, specificity=3.011, continuity=1.409, trend=0.138
+ - computing intelligent: influence=0.909, strength=1.700, specificity=3.051, continuity=0.947, trend=-0.753
+ - computing: influence=0.897, strength=1.390, specificity=1.563, continuity=1.313, trend=-0.077
+ - cloud-edge: influence=0.894, strength=1.620, specificity=3.684, continuity=0.928, trend=-0.693
+ - ddos attack: influence=0.870, strength=1.431, specificity=3.954, continuity=1.015, trend=-0.416
+
+Explainable / Fair / Causal AI | window papers=19 | target papers=2
+ - interpretability ai: influence=1.001, strength=2.779, specificity=4.876, continuity=0.581, trend=-2.198
+ - interpretability: influence=0.943, strength=3.745, specificity=4.602, continuity=0.000, trend=-3.745
+ - fairnes: influence=0.568, strength=2.811, specificity=4.876, continuity=0.000, trend=-2.811
+ - accountability: influence=0.501, strength=2.651, specificity=4.876, continuity=0.000, trend=-2.651
+ - shapley: influence=0.487, strength=2.619, specificity=4.876, continuity=0.000, trend=-2.619
+ - intelligence xai: influence=0.424, strength=2.470, specificity=4.876, continuity=0.000, trend=-2.470
+ - xai: influence=0.424, strength=2.470, specificity=4.876, continuity=0.000, trend=-2.470
+ - artificial intelligence xai: influence=0.424, strength=2.470, specificity=4.876, continuity=0.000, trend=-2.470
+ - fairnes accountability: influence=0.419, strength=2.459, specificity=4.876, continuity=0.000, trend=-2.459
+ - fairnes accountability interpretability: influence=0.419, strength=2.459, specificity=4.876, continuity=0.000, trend=-2.459
+ - accountability interpretability: influence=0.419, strength=2.459, specificity=4.876, continuity=0.000, trend=-2.459
+ - machine mathematics: influence=0.388, strength=2.624, specificity=3.540, continuity=0.000, trend=-2.624
+ - valuation machine mathematics: influence=0.318, strength=2.285, specificity=4.514, continuity=0.000, trend=-2.285
+ - valuation machine: influence=0.318, strength=2.285, specificity=4.514, continuity=0.000, trend=-2.285
+ - valuation: influence=0.318, strength=2.285, specificity=4.514, continuity=0.000, trend=-2.285
+
+Generative Models | window papers=22 | target papers=5
+ - diffusion: influence=2.178, strength=3.671, specificity=4.064, continuity=2.806, trend=-0.864
+ - generative adversarial network: influence=1.093, strength=3.310, specificity=4.605, continuity=0.786, trend=-2.524
+ - adversarial network: influence=1.025, strength=3.163, specificity=4.356, continuity=0.786, trend=-2.377
+ - autoencoders: influence=0.907, strength=3.843, specificity=4.605, continuity=0.000, trend=-3.843
+ - denoising diffusion: influence=0.700, strength=3.326, specificity=4.286, continuity=0.000, trend=-3.326
+ - image synthesis: influence=0.574, strength=2.940, specificity=4.605, continuity=0.000, trend=-2.940
+ - synthesis: influence=0.492, strength=2.820, specificity=3.879, continuity=0.000, trend=-2.820
+ - diffusion probabilistic mathematics: influence=0.480, strength=2.685, specificity=4.605, continuity=0.000, trend=-2.685
+ - diffusion probabilistic: influence=0.480, strength=2.685, specificity=4.605, continuity=0.000, trend=-2.685
+ - probabilistic mathematics: influence=0.480, strength=2.685, specificity=4.605, continuity=0.000, trend=-2.685
+ - generative adversarial: influence=0.397, strength=2.508, specificity=4.272, continuity=0.000, trend=-2.508
+ - beat: influence=0.322, strength=2.256, specificity=4.605, continuity=0.000, trend=-2.256
+ - anomaly: influence=0.303, strength=2.250, specificity=4.285, continuity=0.000, trend=-2.250
+ - masked: influence=0.273, strength=2.230, specificity=3.852, continuity=0.000, trend=-2.230
+ - latent: influence=0.260, strength=2.241, specificity=3.542, continuity=0.000, trend=-2.241
+
+Graph Machine Learning | window papers=16 | target papers=15
+ - graph: influence=0.908, strength=1.971, specificity=4.262, continuity=0.978, trend=-0.993
+ - graph neural network: influence=0.891, strength=2.941, specificity=5.208, continuity=0.000, trend=-2.941
+ - neural network traffic: influence=0.797, strength=1.719, specificity=4.516, continuity=0.934, trend=-0.785
+ - synergistic drug: influence=0.662, strength=1.431, specificity=5.208, continuity=0.824, trend=-0.606
+ - knowledge graph: influence=0.652, strength=2.345, specificity=5.208, continuity=0.000, trend=-2.345
+ - synergistic: influence=0.642, strength=1.404, specificity=5.208, continuity=0.805, trend=-0.599
+ - knowledge graphs: influence=0.587, strength=2.182, specificity=5.208, continuity=0.000, trend=-2.182
+ - aware: influence=0.510, strength=2.128, specificity=3.928, continuity=0.000, trend=-2.128
+ - neural network: influence=0.509, strength=2.202, specificity=3.213, continuity=0.000, trend=-2.202
+ - mathematics ai: influence=0.499, strength=2.022, specificity=4.649, continuity=0.000, trend=-2.022
+ - network mathematics medicine: influence=0.449, strength=1.926, specificity=4.393, continuity=0.000, trend=-1.926
+ - mathematics medicine neural: influence=0.448, strength=1.902, specificity=4.590, continuity=0.000, trend=-1.902
+ - representation knowledge: influence=0.448, strength=1.915, specificity=4.467, continuity=0.000, trend=-1.915
+ - decade: influence=0.428, strength=1.845, specificity=4.655, continuity=0.000, trend=-1.845
+ - factual: influence=0.421, strength=1.835, specificity=4.590, continuity=0.000, trend=-1.835
+
+Human-Computer Interaction | window papers=0 | target papers=2
+ - interface: influence=0.622, strength=0.000, specificity=0.000, continuity=1.452, trend=1.452
+ - human behavior: influence=0.054, strength=0.000, specificity=-10.994, continuity=1.452, trend=1.452
+ - query optimization execution plans: influence=0.000, strength=0.000, specificity=0.000, continuity=0.679, trend=0.679
+ - usability: influence=0.000, strength=0.000, specificity=0.000, continuity=0.679, trend=0.679
+ - plans: influence=0.000, strength=0.000, specificity=0.000, continuity=0.679, trend=0.679
+ - execution plans: influence=0.000, strength=0.000, specificity=0.000, continuity=0.679, trend=0.679
+ - software engineering technology: influence=-0.007, strength=0.000, specificity=-11.833, continuity=1.430, trend=1.430
+ - user: influence=-0.015, strength=0.000, specificity=-11.052, continuity=1.370, trend=1.370
+ - behavior: influence=-0.026, strength=0.000, specificity=-11.914, continuity=1.412, trend=1.412
+ - errors: influence=-0.628, strength=0.000, specificity=-12.141, continuity=0.679, trend=0.679
+
+Information Retrieval | window papers=20 | target papers=12
+ - retrieval-augmented generation: influence=2.203, strength=3.475, specificity=4.953, continuity=2.357, trend=-1.118
+ - retrieval: influence=1.380, strength=2.792, specificity=4.953, continuity=1.265, trend=-1.527
+ - generation: influence=1.271, strength=2.512, specificity=3.151, continuity=1.446, trend=-1.066
+ - query optimization: influence=0.832, strength=1.625, specificity=2.457, continuity=1.309, trend=-0.316
+ - structures: influence=0.759, strength=2.046, specificity=4.229, continuity=0.679, trend=-1.366
+ - retrieval natural: influence=0.719, strength=1.330, specificity=4.953, continuity=1.038, trend=-0.293
+ - retrieval natural language: influence=0.719, strength=1.330, specificity=4.953, continuity=1.038, trend=-0.293
+ - nlp neural: influence=0.523, strength=2.332, specificity=4.441, continuity=0.000, trend=-2.332
+ - introduction: influence=0.474, strength=2.293, specificity=3.817, continuity=0.000, trend=-2.293
+ - index: influence=0.469, strength=2.110, specificity=4.953, continuity=0.000, trend=-2.110
+ - retrieval-augmented generation language: influence=0.457, strength=2.078, specificity=4.953, continuity=0.000, trend=-2.078
+ - pre-training machine: influence=0.427, strength=2.078, specificity=4.405, continuity=0.000, trend=-2.078
+ - language pre-training machine: influence=0.427, strength=2.078, specificity=4.405, continuity=0.000, trend=-2.078
+ - search mathematics: influence=0.422, strength=2.058, specificity=4.451, continuity=0.000, trend=-2.058
+ - architecture search mathematics: influence=0.422, strength=2.058, specificity=4.451, continuity=0.000, trend=-2.058
+
+Kernel Methods / SVM | window papers=8 | target papers=0
+ - svm: influence=1.099, strength=2.569, specificity=6.230, continuity=0.000, trend=-2.569
+ - support vector machine: influence=1.033, strength=2.466, specificity=6.230, continuity=0.000, trend=-2.466
+ - academic: influence=0.732, strength=2.202, specificity=5.807, continuity=0.000, trend=-2.202
+ - physics series: influence=0.385, strength=1.697, specificity=5.733, continuity=0.000, trend=-1.697
+ - classifier medicine: influence=0.302, strength=1.593, specificity=5.681, continuity=0.000, trend=-1.593
+ - medicine comput: influence=0.283, strength=1.297, specificity=6.230, continuity=0.000, trend=-1.297
+ - tumor segmentation: influence=0.283, strength=1.297, specificity=6.230, continuity=0.000, trend=-1.297
+ - skin cancer: influence=0.231, strength=1.520, specificity=5.602, continuity=0.000, trend=-1.520
+ - intrusion: influence=0.154, strength=1.712, specificity=4.963, continuity=0.000, trend=-1.712
+ - intrusion detection: influence=0.109, strength=1.720, specificity=4.804, continuity=0.000, trend=-1.720
+ - diabetes: influence=0.095, strength=1.544, specificity=5.120, continuity=0.000, trend=-1.544
+ - classification: influence=0.082, strength=1.737, specificity=4.682, continuity=0.000, trend=-1.737
+ - random forest: influence=0.074, strength=1.535, specificity=5.071, continuity=0.000, trend=-1.535
+ - segmentation deep convolutional: influence=0.057, strength=1.276, specificity=5.547, continuity=0.000, trend=-1.276
+ - tumor segmentation deep: influence=0.054, strength=1.323, specificity=5.442, continuity=0.000, trend=-1.323
+
+Large Language Models | window papers=140 | target papers=38
+ - llm: influence=2.005, strength=3.599, specificity=2.727, continuity=3.474, trend=-0.125
+ - language: influence=1.680, strength=4.114, specificity=2.285, continuity=2.176, trend=-1.938
+ - large: influence=1.679, strength=3.369, specificity=1.980, continuity=2.943, trend=-0.426
+ - foundation: influence=1.366, strength=3.021, specificity=2.727, continuity=2.299, trend=-0.722
+ - representations: influence=1.289, strength=3.977, specificity=1.270, continuity=1.424, trend=-2.552
+ - attention mechanism: influence=1.187, strength=5.081, specificity=1.751, continuity=0.000, trend=-5.081
+ - evaluating: influence=1.104, strength=3.057, specificity=1.959, continuity=1.688, trend=-1.369
+ - prompting: influence=1.090, strength=3.105, specificity=2.727, continuity=1.468, trend=-1.638
+ - language machine: influence=1.085, strength=3.161, specificity=2.727, continuity=1.399, trend=-1.762
+ - neural processing: influence=1.057, strength=2.491, specificity=0.116, continuity=2.430, trend=-0.062
+ - pretraining: influence=0.990, strength=3.200, specificity=1.757, continuity=1.276, trend=-1.923
+ - language neural processing: influence=0.954, strength=2.719, specificity=2.727, continuity=1.472, trend=-1.247
+ - language neural: influence=0.954, strength=2.719, specificity=2.727, continuity=1.472, trend=-1.247
+ - prompt: influence=0.945, strength=3.043, specificity=2.727, continuity=1.134, trend=-1.909
+ - pre-trained language: influence=0.943, strength=3.233, specificity=2.550, continuity=0.976, trend=-2.257
+
+Machine Learning | window papers=2390 | target papers=334
+ - neural processing: influence=2.367, strength=4.831, specificity=-0.077, continuity=3.043, trend=-1.788
+ - representations: influence=2.363, strength=5.296, specificity=-0.009, continuity=2.652, trend=-2.644
+ - llm: influence=2.167, strength=3.599, specificity=0.116, continuity=3.474, trend=-0.125
+ - diffusion: influence=2.140, strength=4.202, specificity=0.116, continuity=2.961, trend=-1.241
+ - attention mechanism: influence=2.108, strength=6.053, specificity=0.116, continuity=1.493, trend=-4.561
+ - large: influence=2.042, strength=4.010, specificity=0.026, continuity=2.943, trend=-1.067
+ - vision: influence=1.968, strength=4.445, specificity=0.080, continuity=2.435, trend=-2.010
+ - machine: influence=1.943, strength=4.915, specificity=0.116, continuity=2.012, trend=-2.903
+ - natural language processing: influence=1.924, strength=4.290, specificity=0.116, continuity=2.446, trend=-1.844
+ - language: influence=1.798, strength=4.394, specificity=-0.042, continuity=2.176, trend=-2.218
+ - query optimization: influence=1.703, strength=3.921, specificity=0.116, continuity=2.266, trend=-1.655
+ - language processing: influence=1.680, strength=3.864, specificity=0.116, continuity=2.261, trend=-1.603
+ - reinforcement: influence=1.659, strength=3.270, specificity=0.116, continuity=2.667, trend=-0.604
+ - feedback: influence=1.656, strength=3.741, specificity=0.116, continuity=2.305, trend=-1.436
+ - retrieval-augmented generation: influence=1.585, strength=3.475, specificity=0.116, continuity=2.357, trend=-1.118
+
+Natural Language Processing | window papers=681 | target papers=82
+ - llm: influence=2.547, strength=3.599, specificity=1.376, continuity=3.474, trend=-0.125
+ - natural language processing: influence=2.303, strength=4.290, specificity=1.376, continuity=2.446, trend=-1.844
+ - language: influence=2.229, strength=4.470, specificity=1.295, continuity=2.176, trend=-2.294
+ - large: influence=2.095, strength=3.369, specificity=0.628, continuity=2.943, trend=-0.426
+ - language processing: influence=2.032, strength=3.864, specificity=1.376, continuity=2.261, trend=-1.603
+ - retrieval-augmented generation: influence=1.777, strength=3.202, specificity=1.093, continuity=2.357, trend=-0.845
+ - foundation: influence=1.703, strength=3.021, specificity=1.376, continuity=2.299, trend=-0.722
+ - representations: influence=1.686, strength=4.355, specificity=0.303, continuity=1.424, trend=-2.931
+ - natural language: influence=1.621, strength=3.651, specificity=1.261, continuity=1.657, trend=-1.994
+ - generation: influence=1.602, strength=3.924, specificity=1.050, continuity=1.446, trend=-2.477
+ - neural processing: influence=1.599, strength=3.124, specificity=-0.561, continuity=2.430, trend=-0.694
+ - nlp: influence=1.535, strength=4.128, specificity=1.376, continuity=1.083, trend=-3.045
+ - evaluating: influence=1.489, strength=3.380, specificity=0.944, continuity=1.688, trend=-1.692
+ - annual association computational: influence=1.473, strength=4.469, specificity=1.376, continuity=0.689, trend=-3.780
+ - natural: influence=1.424, strength=3.146, specificity=1.376, continuity=1.655, trend=-1.492
+
+Optimization | window papers=79 | target papers=54
+ - optimization: influence=1.925, strength=3.568, specificity=3.694, continuity=1.911, trend=-1.656
+ - query optimization: influence=1.837, strength=3.299, specificity=3.054, continuity=1.993, trend=-1.306
+ - query optimization optimizer: influence=1.300, strength=2.210, specificity=3.694, continuity=1.641, trend=-0.569
+ - learned query optimization: influence=1.137, strength=2.437, specificity=3.694, continuity=1.167, trend=-1.270
+ - hyperparameter optimization: influence=1.063, strength=2.419, specificity=3.694, continuity=1.037, trend=-1.382
+ - adam: influence=1.019, strength=2.095, specificity=3.694, continuity=1.176, trend=-0.918
+ - optimization engineering: influence=0.920, strength=2.019, specificity=3.694, continuity=1.036, trend=-0.983
+ - optimization mathematics: influence=0.914, strength=3.502, specificity=3.694, continuity=0.000, trend=-3.502
+ - making learned: influence=0.893, strength=2.092, specificity=3.694, continuity=0.934, trend=-1.158
+ - making learned query optimization: influence=0.893, strength=2.092, specificity=3.694, continuity=0.934, trend=-1.158
+ - momentum: influence=0.838, strength=3.291, specificity=3.694, continuity=0.000, trend=-3.291
+ - rate: influence=0.832, strength=3.274, specificity=3.694, continuity=0.000, trend=-3.274
+ - query optimization optimizer vldb: influence=0.826, strength=1.653, specificity=3.694, continuity=1.108, trend=-0.545
+ - optimizer vldb endowment: influence=0.826, strength=1.653, specificity=3.694, continuity=1.108, trend=-0.545
+ - optimizer vldb: influence=0.826, strength=1.653, specificity=3.694, continuity=1.108, trend=-0.545
+
+Programming Languages | window papers=3 | target papers=1
+ - code optimization taco: influence=0.583, strength=1.241, specificity=6.792, continuity=0.580, trend=-0.661
+ - optimization taco: influence=0.583, strength=1.241, specificity=6.792, continuity=0.580, trend=-0.661
+ - program: influence=0.509, strength=2.353, specificity=6.168, continuity=0.000, trend=-2.353
+ - synthesis: influence=0.448, strength=2.382, specificity=5.593, continuity=0.000, trend=-2.382
+ - llm: influence=0.271, strength=2.110, specificity=5.201, continuity=0.000, trend=-2.110
+ - large: influence=0.158, strength=2.033, specificity=4.603, continuity=0.000, trend=-2.033
+ - taco: influence=0.072, strength=1.241, specificity=6.792, continuity=0.000, trend=-1.241
+ - architecture code: influence=0.072, strength=1.241, specificity=6.792, continuity=0.000, trend=-1.241
+ - code optimization: influence=0.072, strength=1.241, specificity=6.792, continuity=0.000, trend=-1.241
+ - processing mathematics artificial: influence=0.048, strength=1.405, specificity=6.015, continuity=0.000, trend=-1.405
+ - neural network tree: influence=0.015, strength=1.405, specificity=5.759, continuity=0.000, trend=-1.405
+ - network tree: influence=0.015, strength=1.405, specificity=5.759, continuity=0.000, trend=-1.405
+ - processing mathematics: influence=-0.030, strength=1.356, specificity=5.588, continuity=0.000, trend=-1.356
+ - language processing mathematics: influence=-0.030, strength=1.356, specificity=5.588, continuity=0.000, trend=-1.356
+ - language: influence=-0.175, strength=1.590, specificity=3.615, continuity=0.000, trend=-1.590
+
+Recommender Systems | window papers=4 | target papers=0
+ - parallelization: influence=1.009, strength=1.527, specificity=6.611, continuity=0.000, trend=-1.527
+ - recommendation: influence=0.908, strength=1.376, specificity=7.197, continuity=0.000, trend=-1.376
+ - spark: influence=0.690, strength=1.442, specificity=6.206, continuity=0.000, trend=-1.442
+ - disease patients: influence=0.352, strength=1.107, specificity=7.197, continuity=0.000, trend=-1.107
+ - knowledge-based: influence=0.303, strength=1.083, specificity=7.197, continuity=0.000, trend=-1.083
+ - educational: influence=0.123, strength=1.048, specificity=6.894, continuity=0.000, trend=-1.048
+ - matrix: influence=0.097, strength=1.170, specificity=6.117, continuity=0.000, trend=-1.170
+ - attack detection: influence=0.081, strength=1.110, specificity=6.421, continuity=0.000, trend=-1.110
+ - chronic: influence=-0.035, strength=1.083, specificity=6.253, continuity=0.000, trend=-1.083
+ - applying: influence=-0.060, strength=1.084, specificity=6.178, continuity=0.000, trend=-1.084
+ - backdoor: influence=-0.119, strength=1.126, specificity=5.768, continuity=0.000, trend=-1.126
+ - machine technology icit: influence=-0.178, strength=1.039, specificity=6.103, continuity=0.000, trend=-1.039
+ - machine technology: influence=-0.225, strength=1.016, specificity=6.103, continuity=0.000, trend=-1.016
+ - icit: influence=-0.263, strength=0.998, specificity=6.103, continuity=0.000, trend=-0.998
+ - technology icit: influence=-0.263, strength=0.998, specificity=6.103, continuity=0.000, trend=-0.998
+
+Reinforcement Learning | window papers=54 | target papers=35
+ - reinforcement: influence=1.710, strength=3.270, specificity=3.827, continuity=2.667, trend=-0.604
+ - reinforcement human: influence=1.339, strength=2.551, specificity=3.827, continuity=2.353, trend=-0.199
+ - deep reinforcement: influence=1.322, strength=3.665, specificity=3.827, continuity=1.178, trend=-2.488
+ - reinforcement human feedback: influence=1.187, strength=2.117, specificity=3.827, continuity=2.366, trend=0.250
+ - reinforcement medicine nature: influence=1.157, strength=2.578, specificity=3.827, continuity=1.815, trend=-0.762
+ - reinforcement medicine: influence=1.071, strength=2.024, specificity=3.827, continuity=2.136, trend=0.111
+ - offline: influence=1.026, strength=2.725, specificity=3.827, continuity=1.299, trend=-1.425
+ - deep reinforcement medicine: influence=1.005, strength=1.848, specificity=3.827, continuity=2.129, trend=0.282
+ - human feedback: influence=0.996, strength=2.070, specificity=2.364, continuity=2.086, trend=0.016
+ - reinforcement neural: influence=0.968, strength=1.824, specificity=3.827, continuity=2.050, trend=0.226
+ - reinforcement neural processing: influence=0.968, strength=1.824, specificity=3.827, continuity=2.050, trend=0.226
+ - feedback: influence=0.939, strength=1.965, specificity=1.925, continuity=2.095, trend=0.131
+ - reinforcement machine: influence=0.935, strength=1.869, specificity=3.827, continuity=1.911, trend=0.042
+ - online reinforcement: influence=0.933, strength=1.920, specificity=3.827, continuity=1.853, trend=-0.067
+ - reinforcement mathematics: influence=0.899, strength=3.659, specificity=3.827, continuity=0.000, trend=-3.659
+
+Robotics and Control | window papers=75 | target papers=9
+ - robot: influence=1.825, strength=3.589, specificity=3.619, continuity=1.402, trend=-2.187
+ - medicine robotics: influence=1.593, strength=2.755, specificity=3.619, continuity=1.741, trend=-1.014
+ - locomotion: influence=1.464, strength=2.522, specificity=3.619, continuity=1.725, trend=-0.796
+ - robotic: influence=1.223, strength=2.367, specificity=3.619, continuity=1.445, trend=-0.922
+ - quadrupedal: influence=1.121, strength=2.570, specificity=3.619, continuity=1.088, trend=-1.482
+ - bipedal: influence=1.039, strength=2.347, specificity=3.619, continuity=1.145, trend=-1.202
+ - manipulation: influence=0.984, strength=2.383, specificity=3.619, continuity=1.018, trend=-1.365
+ - robotic manipulation: influence=0.943, strength=2.270, specificity=3.619, continuity=1.047, trend=-1.223
+ - robotic control: influence=0.917, strength=1.619, specificity=3.619, continuity=1.579, trend=-0.040
+ - detection autonomous driving: influence=0.902, strength=3.370, specificity=3.619, continuity=0.000, trend=-3.370
+ - control robot: influence=0.899, strength=1.584, specificity=3.619, continuity=1.579, trend=-0.005
+ - driving vision pattern: influence=0.884, strength=3.335, specificity=3.619, continuity=0.000, trend=-3.335
+ - autonomous driving vision: influence=0.877, strength=3.320, specificity=3.619, continuity=0.000, trend=-3.320
+ - object detection autonomous: influence=0.848, strength=3.263, specificity=3.619, continuity=0.000, trend=-3.263
+ - autonomous driving: influence=0.826, strength=3.221, specificity=3.619, continuity=0.000, trend=-3.221
+
+Security and Privacy | window papers=103 | target papers=34
+ - network intrusion detection: influence=1.998, strength=3.044, specificity=3.446, continuity=2.150, trend=-0.894
+ - malware: influence=1.441, strength=2.588, specificity=3.446, continuity=1.507, trend=-1.081
+ - network intrusion: influence=1.425, strength=2.491, specificity=3.446, continuity=1.547, trend=-0.943
+ - intrusion detection: influence=1.315, strength=3.000, specificity=3.446, continuity=1.004, trend=-1.996
+ - usenix: influence=1.282, strength=2.891, specificity=3.446, continuity=1.024, trend=-1.867
+ - forensics security: influence=1.232, strength=2.719, specificity=3.446, continuity=1.058, trend=-1.661
+ - usenix security: influence=1.199, strength=2.635, specificity=3.446, continuity=1.058, trend=-1.576
+ - deep network intrusion: influence=1.125, strength=2.261, specificity=3.446, continuity=1.190, trend=-1.072
+ - malware detection: influence=1.076, strength=2.345, specificity=3.446, continuity=1.048, trend=-1.297
+ - forensics: influence=1.070, strength=2.354, specificity=3.446, continuity=1.032, trend=-1.322
+ - privacy: influence=0.994, strength=3.651, specificity=3.446, continuity=0.000, trend=-3.651
+ - threats: influence=0.890, strength=2.202, specificity=3.003, continuity=0.878, trend=-1.324
+ - security privacy: influence=0.883, strength=3.375, specificity=3.446, continuity=0.000, trend=-3.375
+ - countermeasures: influence=0.868, strength=1.913, specificity=3.446, continuity=0.990, trend=-0.923
+ - differentially private machine: influence=0.858, strength=1.755, specificity=3.446, continuity=1.082, trend=-0.674
+
+Software Engineering | window papers=106 | target papers=10
+ - code: influence=1.667, strength=2.348, specificity=2.772, continuity=1.348, trend=-1.000
+ - software engineering: influence=1.531, strength=4.024, specificity=3.689, continuity=0.000, trend=-4.024
+ - code generation: influence=1.461, strength=2.829, specificity=3.733, continuity=0.679, trend=-2.149
+ - machine systematic: influence=1.133, strength=1.543, specificity=3.733, continuity=1.109, trend=-0.434
+ - quantum software engineering: influence=1.061, strength=3.130, specificity=3.733, continuity=0.000, trend=-3.130
+ - verification: influence=0.939, strength=2.900, specificity=3.733, continuity=0.000, trend=-2.900
+ - testing software engineering: influence=0.857, strength=2.795, specificity=3.452, continuity=0.000, trend=-2.795
+ - reinforcement software engineering: influence=0.785, strength=1.380, specificity=3.733, continuity=0.791, trend=-0.589
+ - reinforcement software engineering testing: influence=0.785, strength=1.380, specificity=3.733, continuity=0.791, trend=-0.589
+ - metamorphic: influence=0.762, strength=2.567, specificity=3.733, continuity=0.000, trend=-2.567
+ - metamorphic testing: influence=0.762, strength=2.567, specificity=3.733, continuity=0.000, trend=-2.567
+ - systematic medicine: influence=0.701, strength=2.451, specificity=3.733, continuity=0.000, trend=-2.451
+ - empirical software engineering: influence=0.698, strength=2.446, specificity=3.733, continuity=0.000, trend=-2.446
+ - processing systematic medicine: influence=0.695, strength=1.225, specificity=3.733, continuity=0.782, trend=-0.444
+ - testing: influence=0.691, strength=2.494, specificity=3.379, continuity=0.000, trend=-2.494
+
+Statistical Learning | window papers=15 | target papers=4
+ - bayesian: influence=1.419, strength=2.579, specificity=5.179, continuity=1.455, trend=-1.124
+ - denoising diffusion: influence=0.861, strength=3.326, specificity=4.859, continuity=0.000, trend=-3.326
+ - diffusion probabilistic mathematics: influence=0.613, strength=2.685, specificity=5.179, continuity=0.000, trend=-2.685
+ - diffusion probabilistic: influence=0.613, strength=2.685, specificity=5.179, continuity=0.000, trend=-2.685
+ - probabilistic mathematics: influence=0.613, strength=2.685, specificity=5.179, continuity=0.000, trend=-2.685
+ - bayes: influence=0.517, strength=2.455, specificity=5.179, continuity=0.000, trend=-2.455
+ - active: influence=0.515, strength=2.057, specificity=3.272, continuity=0.466, trend=-1.591
+ - variational: influence=0.306, strength=2.105, specificity=4.043, continuity=0.000, trend=-2.105
+ - out-of-distribution detection: influence=0.287, strength=1.902, specificity=5.179, continuity=0.000, trend=-1.902
+ - uncertainties: influence=0.281, strength=1.985, specificity=4.473, continuity=0.000, trend=-1.985
+ - detection mathematics neural: influence=0.274, strength=1.932, specificity=4.736, continuity=0.000, trend=-1.932
+ - representing: influence=0.267, strength=1.962, specificity=4.386, continuity=0.000, trend=-1.962
+ - deep vision: influence=0.254, strength=1.909, specificity=4.549, continuity=0.000, trend=-1.909
+ - vision neural: influence=0.234, strength=1.954, specificity=3.875, continuity=0.000, trend=-1.954
+ - vision neural processing: influence=0.234, strength=1.954, specificity=3.875, continuity=0.000, trend=-1.954
+
+Theory and Algorithms | window papers=166 | target papers=40
+ - machine: influence=1.502, strength=3.643, specificity=1.740, continuity=0.709, trend=-2.934
+ - machine remote: influence=1.258, strength=2.505, specificity=3.031, continuity=1.046, trend=-1.459
+ - machine remote sensing: influence=1.258, strength=2.505, specificity=3.031, continuity=1.046, trend=-1.459
+ - machine predicting: influence=1.171, strength=2.389, specificity=3.031, continuity=0.991, trend=-1.398
+ - ensemble machine: influence=1.137, strength=2.267, specificity=3.031, continuity=1.030, trend=-1.237
+ - soil: influence=1.097, strength=2.299, specificity=2.710, continuity=0.974, trend=-1.325
+ - optimization engineering: influence=1.024, strength=2.019, specificity=3.031, continuity=1.036, trend=-0.983
+ - benchmarking: influence=0.998, strength=2.337, specificity=2.395, continuity=0.814, trend=-1.523
+ - malware detection: influence=0.993, strength=1.992, specificity=2.633, continuity=1.048, trend=-0.945
+ - preprocessing: influence=0.988, strength=1.554, specificity=3.031, continuity=1.335, trend=-0.220
+ - uav: influence=0.949, strength=2.043, specificity=2.753, continuity=0.923, trend=-1.120
+ - genetic: influence=0.908, strength=2.085, specificity=3.031, continuity=0.793, trend=-1.292
+ - scheduling cloud: influence=0.900, strength=1.765, specificity=3.031, continuity=1.028, trend=-0.737
+ - scheduling cloud computing: influence=0.873, strength=1.765, specificity=2.602, continuity=1.028, trend=-0.737
+ - malware: influence=0.871, strength=1.887, specificity=2.244, continuity=0.969, trend=-0.918

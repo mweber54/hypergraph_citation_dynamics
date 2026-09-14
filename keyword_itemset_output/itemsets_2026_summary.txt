@@ -1,0 +1,53 @@
+================================================================================
+FREQUENT ITEMSET MINING - 2026 FORECAST (TREND-BASED SELECTION)
+================================================================================
+
+Method: Exponential/Logistic curve fitting on itemset time series
+Baseline: drift with 5-year window
+Min lift: 1.5
+Frequent pairs: 127
+Frequent triples: 29
+
+Top 5 Trending Itemsets for 2026:
+(Selected by positive increasing trend using exponential/logistic growth curves)
+
+[1] reasoning + reinforcement
+    Trend Score: +0.000659
+    Exponential Growth Rate (k): +0.000000
+    Logistic Growth Rate (k): +0.000000
+    Linear Slope: +0.001318
+    Best Fit Model: none
+    (These keywords show consistent upward trend)
+
+[2] remote + sensing
+    Trend Score: +0.000471
+    Exponential Growth Rate (k): +0.000000
+    Logistic Growth Rate (k): +0.000000
+    Linear Slope: +0.000941
+    Best Fit Model: none
+    (These keywords show consistent upward trend)
+
+[3] remote sensing + sensing
+    Trend Score: +0.000471
+    Exponential Growth Rate (k): +0.000000
+    Logistic Growth Rate (k): +0.000000
+    Linear Slope: +0.000941
+    Best Fit Model: none
+    (These keywords show consistent upward trend)
+
+[4] remote + remote sensing + sensing
+    Trend Score: +0.000471
+    Exponential Growth Rate (k): +0.000000
+    Logistic Growth Rate (k): +0.000000
+    Linear Slope: +0.000941
+    Best Fit Model: none
+    (These keywords show consistent upward trend)
+
+[5] remote + remote sensing
+    Trend Score: +0.000471
+    Exponential Growth Rate (k): +0.000000
+    Logistic Growth Rate (k): +0.000000
+    Linear Slope: +0.000941
+    Best Fit Model: none
+    (These keywords show consistent upward trend)
+

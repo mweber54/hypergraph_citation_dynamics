@@ -1,0 +1,126 @@
+====================================================================================================
+COMPARISON: GNN TOPIC PREDICTIONS vs ITEMSET MINING
+====================================================================================================
+
+GNN Approach: GNN (Graph Neural Network on Temporal Hypergraph)
+  Window: 2020-2024
+  Target Year: 2025
+  Precision@5: 100.0%
+  NDCG@10: 0.9857
+
+Itemset Approach: Itemset Mining (Frequent Itemsets + Residual Forecasting)
+  Baseline: drift
+  Min Lift: 1.5
+  Pairs discovered: 129
+  Triples discovered: 32
+
+====================================================================================================
+GNN PREDICTIONS (Top 5 Topics)
+====================================================================================================
+
+[Rank 1] Machine Learning
+  Prediction: 201.5 | Ground Truth: 267.0 | Error: -65.5
+  Top Keywords (influence scores):
+    - llm: 3.7110
+    - reinforcement: 3.3237
+    - reasoning: 3.1615
+    - scaling: 2.8270
+    - large: 2.3442
+
+[Rank 2] Natural Language Processing
+  Prediction: 127.7 | Ground Truth: 87.0 | Error: +40.7
+  Top Keywords (influence scores):
+    - llm: 3.8500
+    - reasoning: 2.3712
+    - scaling: 2.2989
+    - large: 2.2797
+    - natural language processing: 2.1734
+
+[Rank 3] Deep Learning
+  Prediction: 126.9 | Ground Truth: 108.0 | Error: +18.9
+  Top Keywords (influence scores):
+    - llm: 4.0871
+    - reasoning: 2.5914
+    - scaling: 2.4415
+    - large: 2.4382
+    - foundation: 2.2876
+
+[Rank 4] Software Engineering
+  Prediction: 91.2 | Ground Truth: 60.0 | Error: +31.2
+  Top Keywords (influence scores):
+    - software engineering: 2.8927
+    - software: 2.8615
+    - quantum: 1.8554
+    - testing: 1.8109
+    - automated software engineering: 1.7078
+
+[Rank 5] Computer Vision
+  Prediction: 87.4 | Ground Truth: 45.0 | Error: +42.4
+  Top Keywords (influence scores):
+    - object detection: 2.1571
+    - vision: 1.8997
+    - detection vision pattern: 1.6961
+    - real-time object: 1.6499
+    - object detection vision: 1.6147
+
+====================================================================================================
+ITEMSET MINING PREDICTIONS (Top 5 Keyword Combinations)
+====================================================================================================
+
+[Rank 1] reasoning + reinforcement
+  Predicted Residual: +0.005848
+  Constituent Keywords: reasoning, reinforcement
+
+[Rank 2] query + query optimization
+  Predicted Residual: +0.004497
+  Constituent Keywords: query, query optimization
+
+[Rank 3] remote + remote sensing
+  Predicted Residual: +0.003603
+  Constituent Keywords: remote, remote sensing
+
+[Rank 4] remote sensing + sensing
+  Predicted Residual: +0.003603
+  Constituent Keywords: remote sensing, sensing
+
+[Rank 5] remote + remote sensing + sensing
+  Predicted Residual: +0.003603
+  Constituent Keywords: remote, remote sensing, sensing
+
+====================================================================================================
+SYNTHESIS & COMPARISON
+====================================================================================================
+
+Keyword Overlap Analysis:
+
+Total unique keywords across both methods: 22
+Keywords in common: 2
+  reasoning, reinforcement
+
+Keywords unique to GNN approach: 15
+  automated software engineering, detection vision pattern, foundation, large, llm, natural language processing, object detection, object detection vision, quantum, real-time object
+  ... and 5 more
+
+Keywords unique to Itemset approach: 5
+  query, query optimization, remote, remote sensing, sensing
+
+====================================================================================================
+INTERPRETATION
+====================================================================================================
+
+GNN Approach:
+  - Learns temporal patterns at the TOPIC level
+  - Each topic is a semantic cluster assigned to papers
+  - Predictions indicate which broad research areas are trending
+  - Keywords are secondary: identified post-hoc to explain topic predictions
+
+Itemset Mining Approach:
+  - Discovers KEYWORD COMBINATIONS that frequently co-occur
+  - Uses residual-based forecasting to identify unexpected growth
+  - Predictions are keyword-centric: specific research sub-areas
+  - Can capture fine-grained research patterns (e.g., 'llm + reasoning')
+
+Complementarity:
+  - GNN gives broad research trend (e.g., 'Deep Learning')
+  - Itemset shows what's driving it (e.g., 'reasoning + reinforcement')
+  - Together: get both macro trends AND micro research directions

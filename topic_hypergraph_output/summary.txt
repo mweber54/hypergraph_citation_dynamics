@@ -1,0 +1,20 @@
+Papers processed: 3974
+Topic nodes: 25
+Paper-topic incidence pairs: 8858
+
+Top topics by paper count:
+- Machine Learning: 3347
+- Deep Learning: 1161
+- Computer Vision: 1156
+- Natural Language Processing: 964
+- Large Language Models: 271
+- Theory and Algorithms: 259
+- Software Engineering: 253
+- Optimization: 212
+- Security and Privacy: 205
+- Distributed Systems and Cloud: 179
+- Databases and Data Management: 170
+- Reinforcement Learning: 164
+- Computer Networks: 118
+- Robotics and Control: 95
+- Bioinformatics and Computational Biology: 60

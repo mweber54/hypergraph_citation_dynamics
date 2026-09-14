@@ -1,0 +1,71 @@
+================================================================================
+TOPIC PREDICTION INTERPRETABILITY REPORT
+================================================================================
+
+Forecast Window: 2020 - 2024
+Prediction Target: 2025
+Total Topics: 27
+
+Model Performance:
+  • Precision@5:  100.0%
+  • Precision@10: 100.0%
+  • NDCG@10:      0.9857
+
+================================================================================
+TOP 5 PREDICTED TOPICS WITH INFLUENTIAL KEYWORDS
+================================================================================
+
+[1] Machine Learning
+    Prediction: 201.5 | Ground Truth: 267.0 | Error: -65.5
+    Target Year Papers: 267
+
+    Top Keywords:
+      1. llm | Influence: 3.7110 | Strength: 4.697 | Specificity: 0.122 | Trend: -0.872
+      2. reinforcement | Influence: 3.3237 | Strength: 3.692 | Specificity: 0.122 | Trend: +0.264
+      3. reasoning | Influence: 3.1615 | Strength: 3.738 | Specificity: 0.122 | Trend: -0.082
+      4. scaling | Influence: 2.8270 | Strength: 4.026 | Specificity: 0.122 | Trend: -1.138
+      5. large | Influence: 2.3442 | Strength: 4.077 | Specificity: 0.122 | Trend: -2.018
+
+[2] Natural Language Processing
+    Prediction: 127.7 | Ground Truth: 87.0 | Error: +40.7
+    Target Year Papers: 87
+
+    Top Keywords:
+      1. llm | Influence: 3.8500 | Strength: 4.697 | Specificity: 1.330 | Trend: -0.872
+      2. reasoning | Influence: 2.3712 | Strength: 3.247 | Specificity: 0.824 | Trend: -0.669
+      3. scaling | Influence: 2.2989 | Strength: 3.208 | Specificity: 0.489 | Trend: -0.664
+      4. large | Influence: 2.2797 | Strength: 4.013 | Specificity: 1.265 | Trend: -2.248
+      5. natural language processing | Influence: 2.1734 | Strength: 4.273 | Specificity: 1.330 | Trend: -2.892
+
+[3] Deep Learning
+    Prediction: 126.9 | Ground Truth: 108.0 | Error: +18.9
+    Target Year Papers: 108
+
+    Top Keywords:
+      1. llm | Influence: 4.0871 | Strength: 4.697 | Specificity: 1.027 | Trend: -0.872
+      2. reasoning | Influence: 2.5914 | Strength: 3.353 | Specificity: 0.631 | Trend: -0.776
+      3. scaling | Influence: 2.4415 | Strength: 3.693 | Specificity: 0.686 | Trend: -1.606
+      4. large | Influence: 2.4382 | Strength: 4.053 | Specificity: 1.002 | Trend: -2.287
+      5. foundation | Influence: 2.2876 | Strength: 3.506 | Specificity: 1.027 | Trend: -1.573
+
+[4] Software Engineering
+    Prediction: 91.2 | Ground Truth: 60.0 | Error: +31.2
+    Target Year Papers: 60
+
+    Top Keywords:
+      1. software engineering | Influence: 2.8927 | Strength: 3.150 | Specificity: 2.936 | Trend: -0.992
+      2. software | Influence: 2.8615 | Strength: 3.372 | Specificity: 2.936 | Trend: -1.419
+      3. quantum | Influence: 1.8554 | Strength: 2.366 | Specificity: 2.250 | Trend: -0.923
+      4. testing | Influence: 1.8109 | Strength: 2.754 | Specificity: 2.499 | Trend: -1.682
+      5. automated software engineering | Influence: 1.7078 | Strength: 2.598 | Specificity: 2.936 | Trend: -1.584
+
+[5] Computer Vision
+    Prediction: 87.4 | Ground Truth: 45.0 | Error: +42.4
+    Target Year Papers: 45
+
+    Top Keywords:
+      1. object detection | Influence: 2.1571 | Strength: 3.603 | Specificity: 1.239 | Trend: -2.333
+      2. vision | Influence: 1.8997 | Strength: 3.420 | Specificity: 1.239 | Trend: -2.336
+      3. detection vision pattern | Influence: 1.6961 | Strength: 3.876 | Specificity: 1.239 | Trend: -3.247
+      4. real-time object | Influence: 1.6499 | Strength: 2.721 | Specificity: 1.239 | Trend: -1.552
+      5. object detection vision | Influence: 1.6147 | Strength: 3.899 | Specificity: 1.239 | Trend: -3.371

@@ -1,0 +1,737 @@
+TOPIC-KEYWORD MISMATCH REPORT
+============================================================
+Total papers: 3974
+Detected mismatches: 122
+
+
+Paper: 60b05f32c32519a809f21642ef1eb3eaf3848008
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 6ed9417eaa7ee16f0563599829a061421a3e0563
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 2258e01865367018ed6f4262c880df85b94959f8
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['tracking']
+  Matching keywords: ['tracking']
+
+Paper: 1c61f9ef06fe74505775a833ff849185757199e7
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: a97c7876ebf9ae6c468db92c3c6dc1c0be832192
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 27725a2d2a8cee9bf9fffc6c2167017103aba0fa
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 3f1c6749edfaf4f89bac38b2d15a0493bd9aa253
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['real-time object']
+  Matching keywords: ['real-time object']
+
+Paper: 7ffdbc358b63378f07311e883dddacc9faeeaf4b
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 3a29aa4eff48624752c07059a44d3288a678c8ab
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 892e53fe5cd39f037cb2a961499f42f3002595dd
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: a486e2839291111bb44fa1f07731ada123539f75
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: a6e7513371a49cd7b8b30bb444e8fc448c5326cb
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['tracking']
+  Matching keywords: ['tracking']
+
+Paper: ac0d88ca5f75a4a80da90365c28fa26f1a26d4c4
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['tracking']
+  Matching keywords: ['tracking']
+
+Paper: e2dba792360873aef125572812f3673b1a85d850
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 16da4d6503e17f8597602437358461c252244bf7
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 1a0912bb76777469295bb2c059faee907e7f3258
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 4d972b4b6d2eae0bc810225dc3fd3b89e861dd56
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 5ded2b8c64491b4a67f6d39ce473d4b9347a672e
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 668db48c6a79826456341680ee1175dfc4cced71
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 894252730324f233b474bae1d6fe0b77d988ae83
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['tracking']
+  Matching keywords: ['tracking']
+
+Paper: d9b3fa2627813fe92323a7a8d25cd12e4197ead6
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: f52b48a988489ed4d1c53f98e77aa34669547a94
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 01857c101bf51334f5d28f1288618e2cedf97124
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 97bfa89addc6e5d76361e4c1e296949cad887b86
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 990a7b4eceedb6e053e6386269481bdfc42a1094
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 9f69382b0112b5467b8118eafaade5d30720c3b2
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['tracking']
+  Matching keywords: ['tracking']
+
+Paper: e1799aaf23c12af6932dc0ef3dfb1638f01413d1
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 0de0a44b859a3719d11834479112314b4caba669
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 135112c7ba1762d65f39b1a61777f26ae4dfd8ad
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 157a7ae44613a1fcf34e2be8c1e19a4f6e3c50e3
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 17dbd7b72029181327732e4d11b52a08ed4630d0
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 1e83c20def5c84efa6d4a0d80aa3159f55cb9c3f
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 248824ec5d9b4ddf0c36cdc51b6b57af6e881328
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 340b59e6ee93d30c055b5e89a7cfbc88874c9958
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 43b9bf090d1d7c8308f87bc4775680f5c8813ce6
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['tracking']
+  Matching keywords: ['tracking']
+
+Paper: 56cafbac34f2bb3f6a9828cd228ff281b810d6bb
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 63a243afcb133569a962c41e9db956c076c5c4f3
+  Current topics: ['Machine Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['bounding box']
+  Matching keywords: ['bounding box']
+
+Paper: 6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 74293469797646a026064183c43d8e355498929b
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 809cc93921e4698bde891475254ad6dfba33d03b
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 81f5810fbbab9b7203b9556f4ce3c741875407bc
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 97906df07855b029b7aae7c2a1c6c5e8df1d531c
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: a0e49f65b6847437f262c59d0d399255101d0b75
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: a75649771901a4881b44c0ceafa469fcc6e6f968
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: b61c6405f4de381758e8b52a20313554d68a9d85
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: c4744a7c2bb298e4a52289a1e085c71cc3d37bc6
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: dab8424eec426ed3996e469f657371dd53e20127
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: eef4df3a5232c7ce70123aaebb326ff9169a3c8c
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: fdde9a63877db44c1b6a7f5cff5d47f01465e793
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 1028dfba19e38aa0f41eb3ba2b4885e835d63642
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 2573af4e13d9a5dddb257d22cd38a600528d9a8b
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 2e735b7188a1347b58928d16a81a794e8a644f88
+  Current topics: ['Theory and Algorithms', 'Machine Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['tracking']
+  Matching keywords: ['tracking']
+
+Paper: 33ec7eb2168e37e3007d1059aa96b9a63254b4da
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 3701afb6e94f8ee9fccb2c95e0984e57db38f3d8
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 495da6f19baa09c6db3697d839e10432cdc25934
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 579476d19566efc842929ea6bdd18ab760c8cfa2
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 5b98bffe4b1544aaa1a3041706c5a1c81fbf6ad0
+  Current topics: ['Theory and Algorithms']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 5e0cca43a1c4fc0f1fc03764fc2dab59efeba7a5
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 6b7c896caed36f08b04e72c9eedcc9e1a24e4652
+  Current topics: ['Data Mining', 'Theory and Algorithms', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['wireless sensor']
+  Matching keywords: ['wireless sensor']
+
+Paper: 8af68e52cce0080fe9e9bb7ae93379359a0ccc36
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 9ab7a4f34bbf19eaf0341799c97d1e25928bde58
+  Current topics: ['Machine Learning', 'Security and Privacy', 'Theory and Algorithms', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 9e841696d41fffdb99a09bd32bb14a15973ee4ec
+  Current topics: ['Computer Vision', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: a8bffc01f0f4502cbff463125733f8bf26ead5cf
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: bd20069f5cac3e63083ecf6479abc1799db33ce0
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: c6a84615bc36486cd0170f8a3e1b7e5ec8f5344e
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: e401f6b5118279afb7304ab07d18581d286155de
+  Current topics: ['Computer Vision', 'Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 19bfeac2903e2b2c976e4d132ebd382f1ea48301
+  Current topics: ['Theory and Algorithms', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 3581aeef3869326d6b5b685735529bb107d8fc6c
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 3f2e500fb228767c9f73ba570df357a46616d1d0
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 42b2a4868756e24afb7f89d376547fe67f64aa31
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['yolo']
+  Matching keywords: ['yolo']
+
+Paper: 53d8b356551a2361020a948f64454a6d599af69f
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 572b6913ec90fdc2188339a06db91c74829cc2f8
+  Current topics: ['Distributed Systems and Cloud']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 5a2e45ce35fb26ab70a61b424a49f8e5b4532a8e
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 76c500a32917e16d0b9fe4cc694d1b67f3c8d9c7
+  Current topics: ['Security and Privacy']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 79195e0f1e8560c6e14982a07e1247bbe10d6712
+  Current topics: ['Distributed Systems and Cloud']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 7b37c0a4976c4d2a5a440d494fbb0f3daede2a00
+  Current topics: ['Deep Learning', 'Natural Language Processing', 'Machine Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 90cdaa333c99ae56f1f4ebaa18d6e18d262359ce
+  Current topics: ['Security and Privacy', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 9ea6755fee4e4d90333ed2f90d783762c6bb3d72
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: a9fe5bd8da2d9603cf2cf6c6ea8b0f83c6d3a4f9
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Large Language Models']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: af0bb8ad937096c7f81e3a7dd7ed01ab735e2639
+  Current topics: ['Security and Privacy', 'Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['wireless sensor']
+  Matching keywords: ['wireless sensor']
+
+Paper: b53c386b7c65af80905dc05a9b27e98e03324739
+  Current topics: ['Natural Language Processing', 'Machine Learning', 'Deep Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: c01b385205e488a731c8c8c11c0c494d426beb03
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['yolo']
+  Matching keywords: ['yolo']
+
+Paper: cbdb45fc16b0885905b91d84281c310e6cb49e9c
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: e78f98560cfbf6664722c0e1581bf46872fa2c35
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 35d8c3cc407940d1090c19271776c1af4428efa6
+  Current topics: ['Security and Privacy']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 35e7384f1caf8f0236efa71664c70fd3c1421cf7
+  Current topics: ['Theory and Algorithms', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 382a746c1f125dac6e8cf7508ae4b50ac54b603e
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 4105bfadd842a4ef32f005a825d24fa4d0495996
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 45dfaebd44bbd8c67c046bc8b8cf013c38a897ae
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 5f85aec081f4ee224441899b6c1ceec1535bd58f
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['yolo']
+  Matching keywords: ['yolo']
+
+Paper: 60507e51345b320464469549a40ee8ffe8f6e1c2
+  Current topics: ['Machine Learning', 'Graph Machine Learning', 'Deep Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 756fb1ff40763d283517f753e32f0dc394f1b500
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 815dd5611477100d88bd4d58c04772b64e2461b7
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 8cd4d9d204acbda17572cb364522ee71ce8a5f13
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 907e12e46eba463883442b02dd91a302cd55acd1
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 98ba4b6d517cebd68cf9583c576c0c383902a39f
+  Current topics: ['Distributed Systems and Cloud', 'Security and Privacy']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 9e49d9a3b7b66818e6c2f66395fb83c5df47be44
+  Current topics: ['Distributed Systems and Cloud']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: a91e294181ba70f4b00ad6b1d26dff2089536209
+  Current topics: ['Reinforcement Learning', 'Machine Learning', 'Graph Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: bf22ef16a6a912763780aea454198edc3e2bb3c9
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: ca7c60d9d57e3ef4758077ec3e1b2c6056be1817
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: f88008cc769fb7c6ad48f3a6905248b5f3aa6048
+  Current topics: ['Security and Privacy', 'Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: fcff2246e2b8c143a3262e60dcba8620cc32b61a
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: fd7e88a2313e176315d99fc299277e752d7703b7
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: ff9d9643a50d2773a9d2a45a8e6b8801ac51a9a0
+  Current topics: ['Security and Privacy', 'Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 06396c7cd5d223a1776abf8811359ec7bc05d420
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 4ae5b43d84dff89be84fa35a53f30f70de15de42
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 5d642ff6323bb4bae1c2d20e8454f4deb667a2e6
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 791a67ca630db94c8eaa9da2a8449ebbfa3673af
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: a44df316ebb359fee5b2654be6999884cacfe450
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['wireless sensor']
+  Matching keywords: ['wireless sensor']
+
+Paper: 24fa9b529cb34a801304f4de5f1bc89e97d70c05
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 32f1aea7b28c2ff114625890d5055bf5d79d4b75
+  Current topics: ['Security and Privacy', 'Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Vision
+  Justification: Contains keywords with: ['cnn']
+  Matching keywords: ['cnn']
+
+Paper: 346fdbda3ecf4775819fced0cfed78357bee8128
+  Current topics: ['Natural Language Processing', 'Machine Learning']
+  Suggested addition: Data Mining
+  Justification: Contains keywords with: ['association']
+  Matching keywords: ['association']
+
+Paper: 3ca407c8bf5094d00adfde877936791453347a15
+  Current topics: ['Software Engineering']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 4c72ad7696024b292c0fac248a7e94cbd8d83eb9
+  Current topics: ['Machine Learning', 'Deep Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 5173742c050adda18db6cd906c6521a71941682c
+  Current topics: ['Data Mining', 'Theory and Algorithms', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 5711043ed66daf9d76569085a1737b46d7afe239
+  Current topics: ['Miscellaneous / Unclear CS']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 73a9ee02e6166566e55dbbdf5a0a30023b69ea08
+  Current topics: ['Distributed Systems and Cloud', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: c70adc1e458b8fcfeff8c0f42f576f9b325519f1
+  Current topics: ['Distributed Systems and Cloud', 'Recommender Systems', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 29d0edb5c2532ed56c7274b7154a541288f547de
+  Current topics: ['Computer Vision', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['edge computing']
+  Matching keywords: ['edge computing']
+
+Paper: 5157a3c0dfbfe495229d33eb26ef48c062dfcf39
+  Current topics: ['Security and Privacy']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 58ffb8dd7a1e1d1cae0e809036c453ad410d9262
+  Current topics: ['Security and Privacy', 'Machine Learning', 'Deep Learning', 'Ensemble Methods']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
+
+Paper: 6f653f0e36da27243a048b1a7c932193e2f3d703
+  Current topics: ['Security and Privacy', 'Machine Learning']
+  Suggested addition: Computer Networks
+  Justification: Contains keywords with: ['iot']
+  Matching keywords: ['iot']
