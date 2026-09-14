@@ -15,7 +15,7 @@ Research papers naturally contain relationships that extend beyond pairwise conn
 
 We therefore represent the research corpus as a **hypergraph**, where a hyperedge can connect multiple related entities at once.
 
-![Research Hypergraph](hypergraph.png)
+![Research Hypergraph](assets/research_hypergraph.png)
 
 This representation allows the model to capture higher-order relationships between research topics that would be lost in a conventional pairwise graph.
 
